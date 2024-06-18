@@ -27,7 +27,7 @@ for uni_id in range(1, 307):
 
     table_elements = driver.find_elements(By.TAG_NAME, "td")
 
-    if(len(table_elements) == 0): continue
+    if(len(table_elements) == 0 or len(uni_name) == 0): continue
     count = 0
 
     for items in table_elements:
