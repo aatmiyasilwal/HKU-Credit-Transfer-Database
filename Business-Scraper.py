@@ -25,9 +25,12 @@ for uni_id in range(1, 307):
     uni_name = driver.find_element(By.CLASS_NAME, "modal-title").text.split("—")[0].strip()
     uni_country = driver.find_element(By.CLASS_NAME, "text-muted").text[2:]
 
+    if len(uni_name) == 0: uni_name = "Unknown"
+    if len(uni_country) == 0: uni_name = "Unknown"
+    
     table_elements = driver.find_elements(By.TAG_NAME, "td")
 
-    if(len(table_elements) == 0 or len(uni_name) == 0): continue
+    if(len(table_elements) == 0): continue
     count = 0
 
     for items in table_elements:
