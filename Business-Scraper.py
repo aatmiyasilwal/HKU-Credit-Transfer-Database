@@ -9,54 +9,47 @@ driver = webdriver.Safari()
 url = "https://www.fbeitt.hku.hk/exchange-ctdb/index.php?fuseaction=site.course&partner_id="
 uni_id = 1
 
-driver.get(f"{url}{str(uni_id)}")
-
-time.sleep(10)
-driver.quit()
-
-
-'''df = pd.DataFrame(columns=[
+df = pd.DataFrame(columns=[
     'University',
     'University-Country',
     'Exchange-Course-Code',
     'Exchange-Course-Title',
-    'HKU-Faculty',
     'HKU-Course-Code',
     'HKU-Course-Title'
 ])
 
-uni_names=driver.find_elements(By.CLASS_NAME, "modal-title")[1:]
-uni_number = 0
 
-table_elements = driver.find_elements(By.CLASS_NAME, "uni")
+for uni_id in range(1, 307):
+    driver.get(f"{url}{str(uni_id)}")
 
-for table_element in table_elements:
-    print(uni_number)
-    current_uni = uni_names[uni_number].text.split(" - ")[0]
-    uni_country = uni_names[uni_number].text.split(" - ")[1]
+    uni_name = driver.find_element(By.CLASS_NAME, "modal-title").text.split("—")[0].strip()
+    uni_country = driver.find_element(By.CLASS_NAME, "text-muted").text[2:]
 
-    rows = table_element.find_elements(By.TAG_NAME, "tr")
+    table_elements = driver.find_elements(By.TAG_NAME, "td")
 
-    for row in rows[2:]:
-        cells = row.find_elements(By.TAG_NAME, "td")
-        
-        new_row = {
-            'University': current_uni,
-            'University-Country': uni_country,
-            'Exchange-Course-Code': cells[0].text,
-            'Exchange-Course-Title': cells[1].text,
-            'HKU-Faculty': cells[2].text,
-            'HKU-Course-Code': cells[3].text,
-            'HKU-Course-Title': cells[4].text
-        }
+    if(len(table_elements) == 0): continue
+    count = 0
 
-        # Append the new row to the DataFrame
-        df.loc[len(df)] = new_row
+    for items in table_elements:
+        count += 1    
+        if count % 4 == 1:
+            exchange_course_code = items.text
+        elif count % 4 == 2:
+            exchange_course_title = items.text
+        elif count % 4 == 3:
+            hku_course_code = items.text.split("\t")[0].strip()
+        else:
+            hku_course_title = items.text
+            new_row = {
+                'University': uni_name,
+                'University-Country': uni_country,
+                'Exchange-Course-Code': exchange_course_code,
+                'Exchange-Course-Title': exchange_course_title,
+                'HKU-Course-Code': hku_course_code,
+                'HKU-Course-Title': hku_course_title
+            }
+            df.loc[len(df)] = new_row
 
-    uni_number += 1
-
-print(df)
 driver.quit()
-
-df.to_csv("sosci-credit_transfer_database.csv", index=False)
-'''
+print(df.head())
+df.to_csv("business-credit_transfer_database.csv", index=False)
