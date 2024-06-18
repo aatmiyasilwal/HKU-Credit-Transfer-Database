@@ -14,7 +14,6 @@ df = pd.DataFrame(columns=[
     'University-Country',
     'Exchange-Course-Code',
     'Exchange-Course-Title',
-    'HKU-Faculty',
     'HKU-Course-Code',
     'HKU-Course-Title'
 ])
@@ -39,7 +38,6 @@ for table_element in table_elements:
             'University-Country': uni_country,
             'Exchange-Course-Code': cells[0].text,
             'Exchange-Course-Title': cells[1].text,
-            'HKU-Faculty': cells[2].text,
             'HKU-Course-Code': cells[3].text,
             'HKU-Course-Title': cells[4].text
         }
