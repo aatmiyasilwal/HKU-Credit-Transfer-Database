@@ -1,12 +1,10 @@
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
-import time
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 import pandas as pd
 
-#service = Service(executable_path="chromedriver.exe")
 driver = webdriver.Safari()
-
 driver.get("https://webapp.science.hku.hk/student/servlet/course_equiv")
 
 df = pd.DataFrame(columns=[
@@ -18,40 +16,50 @@ df = pd.DataFrame(columns=[
     'HKU-Course-Title'
 ])
 
-check_code = "EXU001"
-uni_names=driver.find_element(By.ID, check_code)
+options = WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.TAG_NAME, "option")))
 
+for option in options:
+    value = option.get_attribute("value")
+    print(value)
 
-'''uni_number = 0
+    if value == "":
+        continue
 
-table_elements = driver.find_elements(By.CLASS_NAME, "uni")
+    # Select the option
+    option.click()
 
-for table_element in table_elements:
-    print(uni_number)
-    current_uni = uni_names[uni_number].text.split(" - ")[0]
-    uni_country = uni_names[uni_number].text.split(" - ")[1]
+    # Wait for the table to load
+    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.TAG_NAME, "table")))
 
-    rows = table_element.find_elements(By.TAG_NAME, "tr")
+    # Extract university name and country
+    #current_uni = option.text.split(" - ")[1]
+    #uni_country = option.text.split(". ")[1].split(" - ")[0]
 
-    for row in rows[2:]:
+    # Get all table rows
+    rows = driver.find_elements(By.TAG_NAME, "tr")  # Find rows directly without using table reference
+
+    # Skip the header row and the last row (empty)
+    rows = rows[1:-1]
+
+    for row in rows:
+        # Find the cells again after the page reloads
         cells = row.find_elements(By.TAG_NAME, "td")
-        
+
+        # Create a new row dictionary
         new_row = {
-            'University': current_uni,
-            'University-Country': uni_country,
-            'Exchange-Course-Code': cells[0].text,
-            'Exchange-Course-Title': cells[1].text,
-            'HKU-Course-Code': cells[3].text,
-            'HKU-Course-Title': cells[4].text
+            'University': "current_uni",
+            'University-Country': "uni_country",
+            'Exchange-Course-Code': cells[1].text,  # Index 1 for "Partner Code"
+            'Exchange-Course-Title': cells[3].text,  # Index 3 for "Partner Title"
+            'HKU-Course-Code': cells[4].text,  # Index 4 for "HKU Code"
+            'HKU-Course-Title': cells[5].text  # Index 5 for "HKU Title"
         }
 
         # Append the new row to the DataFrame
         df.loc[len(df)] = new_row
 
-    uni_number += 1
-
 print(df)
-'''
+
 driver.quit()
 
-df.to_csv("sosci-credit_transfer_database.csv", index=False)
+#df.to_csv("science-credit_transfer_database.csv", index=False)
