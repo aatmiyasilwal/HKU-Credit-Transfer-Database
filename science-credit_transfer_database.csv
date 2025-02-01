@@ -1,0 +1,857 @@
+University,University-Country,Exchange-Course-Code,Exchange-Course-Title,HKU-Course-Code,HKU-Course-Title
+ Yale University,USA,E&EB 225,Evolutionary Biology,BIOL3506,Evolutionary biology
+ Yale University,USA,E&EB 246 + E&EB 247L,Plant Diversity and Evolution + Lab: Plant Diversity and Evolution,BIOL3314,Plant structure and evolution
+ Yale University,USA,E&EB 255 + E&EB 256L,Invertebrates + Laboratory for Invertebrates,BIOL3322,Marine invertebrate zoology
+ Yale University,USA,E&EB 275,Biological Oceanography,BIOL3301,Marine biology
+ Yale University,USA,EPS 125,History of Life,EASC3417,Earth through time
+ Yale University,USA,EPS 212,Global Tectonics,EASC4406,Earth Dynamics & Global Tectonics
+ Yale University,USA,EPS 310,Isotope Geochemistry,EASC3416,Advanced geochemistry and geochronology
+ Yale University,USA,EPS 312,Structural Geology,EASC3404,Structural geology
+ Yale University,USA,EPS 350,Rock Formation in Mountain Belts,EASC3409,Igneous and metamorphic petrogenesis
+ Yale University,USA,EPS 362,Observing Earth from Space,EASC3405,Environmental remote sensing
+ Yale University,USA,EPS 370,Regional Perspectives on Earth Sciences,EASC4407,Regional geology
+ Yale University,USA,EVST 234L,Field Science: Environment & Sustainability,ENVS2001,Methods in environmental science
+ Yale University,USA,MATH 241 + MATH 251,Probability Theory + Stochastic process,MATH3603,Probability theory
+ Yale University,USA,MATH 247,Intro to Partial Differential Equations,MATH4406,Introduction to partial differential equations
+ Yale University,USA,MB&B 443,Advanced Eukaryotic Molecular Biology,BIOL3401,Molecular biology
+ Yale University,USA,MCDB 202 + MCDB 203L,Genetics + Laboratory for Genetics,BIOL3408,Genetics
+ Yale University,USA,MCDB 205,Cell Biology,BIOL3402,Cell biology and cell technology
+ Yale University,USA,MCDB 290,Microbiology,BIOL3508,Microbial physiology and biotechnology
+ Yale University,USA,MCDB 430,Biology of the Immune System,BIOL3403,Immunology
+ Yale University,USA,S&DS 101,Introduction to Statistics: Life Sciences,BIOL2102,Biostatistics
+ Yale University,USA,S&DS 361,Data Analysis,STAT3621,Statistical data analysis
+ Yale University,USA,S&DS 363,Multivariate Statistics for Social Sciences,STAT4602,Multivariate data analysis
+ Yale University,USA,S&DS 583,Time Series with R/Python,STAT4601,Time-series analysis
+ Wellesley College,USA,6.7900,MIT: Machine Learning (graduate level),STAT3612,Statistical machine learning
+ University of Wisconsin-Madison,USA,ISYE 525,Linear Optimization,MATH3901,Operations research I
+ University of Wisconsin-Madison,USA,MATH 431,Introduction to the Theory of Probability,MATH3603,Probability theory
+ University of Wisconsin-Madison,USA,MATH 521,Analysis I,MATH3401,Analysis I
+ University of Wisconsin-Madison,USA,MATH 522,Analysis II,MATH4404,Functional analysis
+ University of Wisconsin-Madison,USA,MATH 531,Probability Theory,MATH3603,Probability theory
+ University of Wisconsin-Madison,USA,MATH 540,Linear Algebra II,MATH2102,Linear algebra II
+ University of Wisconsin-Madison,USA,MATH 542,Modern Algebra,MATH4302,Algebra II
+ University of Wisconsin-Madison,USA,MATH 552,Elementary Geometric and Algebraic Topology,MATH3541,Introduction to topology
+ University of Wisconsin-Madison,USA,MATH 619,Analysis of Partial Differential Equations,MATH4406,Introduction to partial differential equations
+ University of Wisconsin-Madison,USA,MATH 715,Methods of Computational Mathematics II,MATH4602,Scientific computing
+ University of Wisconsin-Madison,USA,STAT 349,Introduction to Time Series,STAT4601,Time-series analysis
+ University of Wisconsin-Madison,USA,STAT 351,Introductory Nonparametric Statistics,STAT3620,Modern nonparametric statistics
+ University of Virginia,USA,MATH 4110,Introduction to Stochastic Processes,STAT3603,Stochastic processes
+ University of Virginia,USA,MATH 4140,Mathematics of Derivative Securities,STAT3618,Derivatives and risk management
+ University of Virginia,USA,STAT 3220,Introduction to Regression Analysis,STAT3600,Linear statistical analysis
+ University of Richmond,USA,BUAD202,Statistics for Business and Economics,STAT1602,Business statistics
+ University of Notre Dame,USA,ACMS40760,Introduction to Stochastic Modeling,STAT3603,Stochastic processes
+ University of Notre Dame,USA,MATH 40480,Complex Variables,MATH3403,Functions of a complex variable
+ University of Notre Dame,USA,MATH 60360,Basic Real Analysis II,MATH4404,Functional analysis
+ University of Notre Dame,USA,MATH 60620,Optimization,MATH3904,Introduction to optimization
+ University of North Carolina at Chapel Hill,USA,CHEM 261H,Introduction to Organic Chemistry I,CHEM2441,Organic chemistry I
+ University of North Carolina at Chapel Hill,USA,ENEC 350,Environmental Law and Policy,ENVS3004,Environment, society and economics"
+ University of North Carolina at Chapel Hill,USA,MATH 233,Calculus of Functions of Several Variables,MATH2211,Multivariable calculus
+ University of North Carolina at Chapel Hill,USA,MATH 347,Linear Algebra For Application,MATH2101,Linear algebra I
+ University of Maryland,USA,CMSC980,Introduction to Data Visualization,STAT3622,Data visualization
+ University of Kansas,USA,BIOL 350,Principles of Genetics,BIOL3408,Genetics
+ University of Kansas,USA,BIOL 416,Cell Structure and Function,BIOC4610,Advanced biochemistry
+ University of Kansas,USA,CHEM 330,Organic Chemistry I,CHEM2441,Organic chemistry I
+ University of Kansas,USA,HSES 330,Principles of Nutrition and Health,BIOL3202,Nutritional biochemistry
+ University of Kansas,USA,HSES 474,Exercise Biochemistry,BIOC3601,Basic Metabolism
+ University of Illinois at Urbana-Champaign,USA,ASTR 210,Introduction to Astrophysics,PHYS1650,Nature of the universe
+ University of Illinois at Urbana-Champaign,USA,ASTR 310,Computing in Astronomy,PHYS2160,Introductory computational physics
+ University of Illinois at Urbana-Champaign,USA,CHEM 437,Organic Chemistry Lab,CHEM3443,Organic chemistry laboratory
+ University of Illinois at Urbana-Champaign,USA,CHEM 474,Drug Discovery & Development,CHEM4145,Medicinal chemistry
+ University of Illinois at Urbana-Champaign,USA,CSE 441,Introduction to Optimization,MATH3904,Introduction to optimization
+ University of Illinois at Urbana-Champaign,USA,FSHN 101,The Science of Food,BIOL1201,Introduction to food and nutrition
+ University of Illinois at Urbana-Champaign,USA,FSHN 471,Food and Industrial Microbiology,BIOL3203,Food microbiology
+ University of Illinois at Urbana-Champaign,USA,MATH416,Abstract Linear Algebra,MATH2102,Linear algebra II
+ University of Illinois at Urbana-Champaign,USA,MATH442,Introduction to Partial Differential Equations,MATH4406,Introduction to partial differential equations
+ University of Illinois at Urbana-Champaign,USA,PHYS 325,Classical Mechanics I,PHYS3350,Classical mechanics
+ University of Illinois at Urbana-Champaign,USA,PHYS 402,Light,PHYS3850,Physical Optics
+ University of Illinois at Urbana-Champaign,USA,PHYS 435,Electromagnetic Fields I,PHYS3450,Electromagnetism
+ University of Illinois at Urbana-Champaign,USA,PHYS 504,Statistical Physics,PHYS7550,Graduate statistical mechanics
+ University of Illinois at Urbana-Champaign,USA,PHYS 515,General Relativity I,PHYS4654,General relativity
+ University of Illinois at Urbana-Champaign,USA,PHYS 575,Particle Physics I,PHYS4850,Particle physics
+ University of Hawaii at Manoa,USA,BIOL 220,Biostatistics,BIOL2102,Biostatistics
+ University of Hawaii at Manoa,USA,BIOL 275 + BIOL 275L,Cell and Molecular Biology + Cell and Molecular Biology Laboratory,BIOL3401,Molecular biology
+ University of Connecticut,USA,MATH3631,Long-Term Actuarial Mathematics II,STAT3909,Life contingencies II
+ University of Connecticut,USA,MATH3660,Advanced Financial Mathematics,STAT3910,Financial economics I
+ University of Connecticut,USA,NUSC4236,Nutritional Biochem Metabolism,BIOL3202,Nutritional biochemistry
+ University of Chicago,USA,ASTR 21100,Computational Techniques in Astrophysics,PHYS4150,Computational physics
+ University of Chicago,USA,ASTR 24100,The Physics of Stars,PHYS4650,Stellar physics
+ University of Chicago,USA,ASTR 25400,Radiation Processes in Astrophysics,PHYS3653,Astrophysics
+ University of Chicago,USA,MATH 18500,Mathematical Methods in the Physical Sciences III,PHYS2155,Methods in physics II
+ University of Chicago,USA,PHYS 18500,Intermediate Mechanics,PHYS3350,Classical mechanics
+ University of Chicago,USA,PHYS 23410+PHYS 23510,Quantum Mechanics I + Quantum Mechanics II,PHYS3351,Quantum mechanics
+ University of Chicago,USA,PHYS23700,Nuclei and Elementary Particles,PHYS3851,Atomic and nuclear physics
+ University of Chicago,USA,PHYS32200,Advanced Electrodynamics I,PHYS2255,Introductory electricity and magnetism
+ University of Chicago,USA,PHYS32300,Advanced Electrodynamics II,PHYS3450,Electromagnetism
+ University of Chicago,USA,PHYS34200,Graduate Quantum Mechanics-2,PHYS2265,Introductory quantum physics
+ University of Chicago,USA,PHYS35200,Statistical Mechanics,PHYS3550,Statistical mechanics & thermodynamics
+ University of Chicago,USA,PHYS36300,Particle Physics,PHYS4850,Particle physics
+ University of Chicago,USA,PHYS36400,General Relativity,PHYS4654,General relativity
+University of California, Santa Cruz,USA,MATH 103A,Complex Analysis,MATH3403,Functions of a complex variable
+University of California, Santa Barbara,USA,ASTRO 1,Basic Astronomy,PHYS1650,Nature of the universe
+University of California, Santa Barbara,USA,EARTH 4,Introduction to Oceanography,ENVS3313,Environmental oceanography
+University of California, Santa Barbara,USA,MATH 111B + MATH 111C,Abstract Algebra + Abstract Algebra,MATH4302,Algebra II
+University of California, Santa Barbara,USA,MATH 118B,Introduction to Real Analysis,MATH3401,Analysis I
+University of California, Santa Barbara,USA,MATH 118C,Introduction to Real Analysis,MATH4402,Analysis II
+University of California, Santa Barbara,USA,MATH 122A + MATH 122B,Introduction to Theory of Complex Variables + Introduction to Theory of Complex Variables,MATH3403,Functions of a complex variable
+University of California, Santa Barbara,USA,MATH 122B,Introduction to Theory of Complex Variables,MATH3403,Functions of a complex variable
+University of California, Santa Barbara,USA,MATH 145,Introduction to Topology,MATH3541,Introduction to topology
+University of California, Santa Barbara,USA,MCDB133,Immunology,BIOL3403,Immunology
+University of California, Santa Barbara,USA,PHYS 110A,Electromagnetism,PHYS3450,Electromagnetism
+University of California, Santa Barbara,USA,PHYS 110B,Electromagnetism,PHYS4450,Advanced electromagnetism
+University of California, Santa Barbara,USA,PHYS 110B,Electromagnetism,PHYS3450,Electromagnetism
+University of California, Santa Barbara,USA,PHYS 119B,Thermal and Statistical Physics,PHYS3550,Statistical mechanics & thermodynamics
+University of California, Santa Barbara,USA,PHYS 123B,Condensed Matter Physics,PHYS4551,Solid state physics
+University of California, Santa Barbara,USA,PHYS 125,Elementary Particle Physics,PHYS4850,Particle physics
+University of California, Santa Barbara,USA,PHYS 128AL,Advanced Experimental Physics,PHYS3760,Physics laboratory
+University of California, Santa Barbara,USA,PHYS 131,Gravitation and Relativity,PHYS4654,General relativity
+University of California, Santa Barbara,USA,PHYS 133,Galaxies and Cosmology,PHYS4653,Selected topics in astrophysics and cosmology
+University of California, Santa Barbara,USA,PHYS 210B,Electromagnetic Theory,PHYS7450,Graduate electromagnetic field theory
+University of California, Santa Barbara,USA,PHYS 215B,Quantum Mechanics,PHYS7351,Graduate quantum mechanics
+University of California, Santa Barbara,USA,PSTAT 10,Principles of Data Science with R,STAT2604,Introduction to R/Python programming and elementary data analysis
+University of California, Santa Barbara,USA,PSTAT 122,Design and Analysis of Experiments,STAT3604,Design and analysis of experiments
+University of California, Santa Barbara,USA,PSTAT 131,Introduction to Statistical Machine Learning,STAT3612,Statistical machine learning
+University of California, Santa Barbara,USA,PSTAT 134,Statistical Data Science,STAT3622,Data visualization
+University of California, Santa Barbara,USA,PSTAT 174,Time Series,STAT4601,Time-series analysis
+University of California, San Diego,USA,BICD 100 + BIMM118,Genetics + Pharmacology,BIOL4415,Healthcare biotechnology
+University of California, San Diego,USA,BICD 112,Stem Cells and Regeneration,BIOL4416,Stem cells and regenerative biology
+University of California, San Diego,USA,BICD 140,Immunology,BIOL3403,Immunology
+University of California, San Diego,USA,BIMM 114,Virology,BIOL4409,General virology
+University of California, San Diego,USA,BIMM 181,Molecular Sequence Analysis,BIOL4417,Omics' and systems biology
+University of California, San Diego,USA,CHEM 40B + CHEM 40C,Organic Chemistry II + Organic Chemistry III,CHEM3441,Organic chemistry II
+University of California, San Diego,USA,MATH 104A,Number Theory I,MATH3304,Introduction to number theory
+University of California, San Diego,USA,MATH 114,Introduction to Computational Stochastics,STAT3603,Stochastic processes
+University of California, San Diego,USA,MATH 148,Analysis of Partial Differential Equations,MATH4406,Introduction to partial differential equations
+University of California, San Diego,USA,MATH 150B,Calculus on Manifolds,MATH4501,Geometry
+University of California, San Diego,USA,MATH 173A,Optimization Methods for Data Science I,MATH3904,Introduction to optimization
+University of California, San Diego,USA,MATH 200B,Graduate Algebra II,MATH4302,Algebra II
+University of California, San Diego,USA,MATH 20D,Introduction to Differential Equations,MATH3405,Differential equations
+University of California, San Diego,USA,MATH 270B,Numerical Approximation and Nonlinear Equations,MATH3601,Numerical analysis
+University of California, San Diego,USA,MATH 284,Lifetime Data Analysis,STAT3655,Survival analysis
+University of California, San Diego,USA,MATH 285,Stochastic Processes,STAT3603,Stochastic processes
+University of California, Los Angeles,USA,COM SCI M146,Introduction to Machine Learning,STAT3612,Statistical machine learning
+University of California, Los Angeles,USA,LS 7C,Physiology and Human Biology,BIOL3205,Human physiology
+University of California, Los Angeles,USA,MATH 120A,Differential Geometry,MATH4501,Geometry
+University of California, Los Angeles,USA,MATH 131BH,Honors Analysis,MATH4402,Analysis II
+University of California, Los Angeles,USA,MATH 132,Complex Analysis for Applications,MATH3403,Functions of a complex variable
+University of California, Los Angeles,USA,MATH 132H,Honors Complex Analysis,MATH3403,Functions of a complex variable
+University of California, Los Angeles,USA,MATH 134,Linear and Nonlinear Systems of Differential Equations,MATH3405,Differential equations
+University of California, Los Angeles,USA,MATH 151A,Applied Numerical Methods,MATH3601,Numerical analysis
+University of California, Los Angeles,USA,MATH 164,Optimization,MATH3904,Introduction to optimization
+University of California, Los Angeles,USA,MATH 174E,Mathematics of Finance for Mathematics/Economics Students,STAT3910,Financial economics I
+University of California, Los Angeles,USA,MATH 178B,Foundations of Actuarial Mathematics: Additional Topics in Long-Term Actuarial Mathematics,STAT3909,Life contingencies II
+University of California, Los Angeles,USA,MATH 178C,Foundations of Actuarial Mathematics: Loss Models,STAT3908,Credibility theory and loss distributions
+University of California, Los Angeles,USA,MATH 210B,Algebra,MATH4302,Algebra II
+University of California, Los Angeles,USA,MATH 32A,Calculus of several variables,MATH2211,Multivariable calculus
+University of California, Los Angeles,USA,MATH 33B,Differential Equations,MATH3405,Differential equations
+University of California, Los Angeles,USA,MATH 61,Introduction to Discrete Structures,MATH3600,Discrete mathematics
+University of California, Los Angeles,USA,MATH115B,Linear Algebra,MATH2102,Linear algebra II
+University of California, Los Angeles,USA,MATH120A,Differential Geometry,MATH4501,Geometry
+University of California, Los Angeles,USA,MATH151B,Applied Numerical Methods,MATH4602,Scientific computing
+University of California, Los Angeles,USA,MATH33B,Differential Equations,MATH3405,Differential equations
+University of California, Los Angeles,USA,STAT 100B,Introduction to mathematical statistics,STAT2602,Probability and statistics II
+University of California, Davis,USA,ATM 010 + VEN 003,Severe and Unusual Weather + Introduction to Winemaking,EASC3415,Meteorology
+University of California, Davis,USA,BIS 101 + BIS 101D,Genes & Gene Expression + Genes & Gene Expression Discussion,BIOL3408,Genetics
+University of California, Davis,USA,ECN 122,Game Theory,MATH3911,Game theory and strategy
+University of California, Davis,USA,MAT 119A,Ordinary Differential Equations,MATH3405,Differential equations
+University of California, Davis,USA,STA 013,Elementary Statistics,STAT1600,Statistics: ideas and concepts
+University of California, Berkeley,USA,ASTRON C10,Introduction to General Astronomy,PHYS1650,Nature of the universe
+University of California, Berkeley,USA,CHEM 105,Instrumental Methods in Analytical Chemistry,CHEM3241,Analytical chemistry II: chemical instrumentation
+University of California, Berkeley,USA,CHEM 135,Chemical Biology,CHEM4444,Chemical Biology
+University of California, Berkeley,USA,CHEM 252A + CHEM X430 + CHEM 295,Organometallic Chemistry I + Chemistry Visiting Student???s 1 Unit Experiential Seminar + Special Topics,CHEM4148,Frontiers in Modern Chemical Science
+University of California, Berkeley,USA,CHEM120A + CHEM125,Physical Chemistry + Physical Chemistry Laboratory,CHEM3541,Physical chemistry: Introduction to quantum chemistry
+University of California, Berkeley,USA,CHEM3BL + MCELLBI N184,Organic Chemistry Laboratory + Intro to CRISPR: From Basic Biology to Genome Editing Technology,CHEM3443,Organic chemistry laboratory
+University of California, Berkeley,USA,GEOG 185,Earth System Remote Sensing,EASC3405,Environmental remote sensing
+University of California, Berkeley,USA,MATH 104,Introduction to Analysis,MATH2241,Introduction to mathematical analysis
+University of California, Berkeley,USA,MATH 105,Second Course in Analysis,MATH4402,Analysis II
+University of California, Berkeley,USA,MATH 110,Linear Algebra,MATH2102,Linear algebra II
+University of California, Berkeley,USA,MATH 113,Introduction to Abstract Algebra,MATH3301,Algebra I
+University of California, Berkeley,USA,MATH 114,Second Course in Abstract Algebra,MATH4302,Algebra II
+University of California, Berkeley,USA,MATH 126,Introduction to Partial Differential Equations,MATH4406,Introduction to partial differential equations
+University of California, Berkeley,USA,MATH 128A,Numerical Analysis,MATH3601,Numerical analysis
+University of California, Berkeley,USA,MATH 140,Metric Differential Geometry,MATH4501,Geometry
+University of California, Berkeley,USA,MATH 160,History of Mathematics,MATH3001,Development of mathematical ideas
+University of California, Berkeley,USA,MATH 170,Mathematical Methods for Optimization,MATH3901,Operations research I
+University of California, Berkeley,USA,MATH 185,Introduction to Complex Analysis,MATH3403,Functions of a complex variable
+University of California, Berkeley,USA,MATH 228B,Numerical Solution of Differential Equations,MATH3408,Computational methods and differential equations with applications
+University of California, Berkeley,USA,MATH 240,Riemannian Geometry,MATH4501,Geometry
+University of California, Berkeley,USA,MATH 261A,Lie Groups,MATH2102,Linear algebra II
+University of California, Berkeley,USA,MATH 53,Multivariable calculus,MATH2211,Multivariable calculus
+University of California, Berkeley,USA,MATH 54,Linear Algebra and Differential Equations,MATH2101,Linear algebra I
+University of California, Berkeley,USA,MATH 54,Linear Algebra and Differential Equations,MATH3405,Differential equations
+University of California, Berkeley,USA,MATH 55,Discrete Mathematics,MATH3600,Discrete mathematics
+University of California, Berkeley,USA,MATH H185,Honors Complex Analysis,MATH3403,Functions of a complex variable
+University of California, Berkeley,USA,MATH N53,Multivariable Calculus,MATH2211,Multivariable calculus
+University of California, Berkeley,USA,MATH W128A,Numerical Analysis,MATH3601,Numerical analysis
+University of California, Berkeley,USA,MCELLBI 102,Survey of the Principles of Biochemistry and Molecular Biology,BIOC3601,Basic Metabolism
+University of California, Berkeley,USA,MCELLBI 102,Survey of the Principles of Biochemistry and Molecular Biology,BIOC2600,Basic biochemistry
+University of California, Berkeley,USA,MCELLBI 104,Genetics, Genomics, and Cell Biology,BIOL3408,Genetics
+University of California, Berkeley,USA,MCELLBI 110,Molecular Biology: Macromolecular Synthesis and Cellular Function,BIOC4612,Molecular biology of the gene
+University of California, Berkeley,USA,MCELLBI 130,Cell and Systems Biology,BIOC4610,Advanced biochemistry
+University of California, Berkeley,USA,MCELLBI 150,Molecular Immunology,BIOL3403,Immunology
+University of California, Berkeley,USA,MCELLBI 38,Stem Cell Biology, Ethics, and Societal Impact,BIOL4416,Stem cells and regenerative biology
+University of California, Berkeley,USA,MCELLBI C112,General Microbiology,BIOL3508,Microbial physiology and biotechnology
+University of California, Berkeley,USA,MCELLBI C114,Introduction to Comparative Virology,BIOL4409,General virology
+University of California, Berkeley,USA,PBHLTH 142,Introduction to Probability and Statistics for Life Scientists,BIOL2102,Biostatistics
+University of California, Berkeley,USA,PBHLTH XB245,Introduction to Multivariate Statistics,STAT4602,Multivariate data analysis
+University of California, Berkeley,USA,PHYS 105,Analytic Mechanics,PHYS3350,Classical mechanics
+University of California, Berkeley,USA,STAT 131A + STAT 153,Statistical Methods for Data Science + Introduction to Time Series,STAT3907,Linear models and forecasting
+University of California, Berkeley,USA,STAT 133,Concepts in Computing with Data,STAT3612,Statistical machine learning
+University of California, Berkeley,USA,STAT 135,Concepts of Statistics,STAT2602,Probability and statistics II
+University of California, Berkeley,USA,STAT 150,Stochastic Processes,STAT3903,Stochastic models
+University of California, Berkeley,USA,STAT 153,Introduction to Time Series,STAT4601,Time-series analysis
+University of California, Berkeley,USA,STAT 154,Modern Statistical Prediction and Machine Learning,STAT4904,Statistical learning for risk modelling
+University of California, Berkeley,USA,STAT 155,Game Theory,STAT3606,Business logistics
+University of California, Berkeley,USA,STAT 156,Causal Inference,STAT3608,Statistical genetics
+University of California, Berkeley,USA,STAT 158,The Design and Analysis of Experiments,STAT3604,Design and analysis of experiments
+University of California, Berkeley,USA,STAT C205A,Probability Theory,STAT7610,Advanced probability
+University of California, Berkeley,USA,STAT XB151A,Linear Modelling: Theory and Applications,STAT3600,Linear statistical analysis
+University of California, Berkeley,USA,UGIS 192C,Supervised Research: Biological Sciences,CHEM3999,Directed studies in chemistry
+ University of Arizona,USA,GEOS 212,Introduction To Oceanography,ENVS3313,Environmental oceanography
+ University of Arizona,USA,GEOS302,Principles of Sedimentology And Stratigraphy,EASC3403,Sedimentary environments
+ University of Arizona,USA,GEOS439A,Introduction of Dendrochronology,EASC4403,Biogeochemical cycles
+ Stanford University,USA,22459 + 23484,The Neurobiology of Pain + Introduction to Biotechnology: Detecting and Treating Disease,BIOL3994,Directed studies in biological sciences
+Rutgers, the State University of New Jersey,USA,01:640:252,Elementary Differential Equations,MATH3405,Differential equations
+Rutgers, the State University of New Jersey,USA,01:640:354,Linear Optimization,MATH3901,Operations research I
+Rutgers, the State University of New Jersey,USA,01:640:423,Partial Differential Equations,MATH4406,Introduction to partial differential equations
+Rutgers, the State University of New Jersey,USA,11:628:120,Introduction to Oceanography,BIOL3301,Marine biology
+Rutgers, the State University of New Jersey,USA,11:709:401,11:709:401 Advanced Nutrition II: Energy and Micronutrients,BIOL3202,Nutritional biochemistry
+Rutgers, the State University of New Jersey,USA,11:776:170,Plants and People,ENVS1301,Environmental life science
+Rutgers, the State University of New Jersey,USA,11:776:242,Plant Science,BIOL3314,Plant structure and evolution
+ Northwestern University,USA,BIOL SCI 103-0,Diversity of Life,BIOL1309,Evolutionary diversity
+ Northwestern University,USA,BIOL SCI 347-0,Conservation Biology,BIOL3303,Conservation biology
+ Northwestern University,USA,BIOL SCI 350-0,Plant Evolution and Diversity Lab,BIOL3314,Plant structure and evolution
+ Northwestern University,USA,EPI_BIO 521-0,Applied Survival Data Analysis,STAT3955,Survival analysis
+ Northwestern University,USA,IEMS 304-0,Statistical Learning,STAT3612,Statistical machine learning
+ Northwestern University,USA,IEMS 315,Stochastic Models,STAT3603,Stochastic processes
+ Northwestern University,USA,MATH 250-0,Elementary Differential Equations,MATH3405,Differential equations
+ Northwestern University,USA,MATH 310-2,Probability and Stochastic Processes,STAT3603,Stochastic processes
+ Northwestern University,USA,MATH 410-3,Introduction to Modern Analysis,MATH3403,Functions of a complex variable
+ Northwestern University,USA,STAT 320-2,Statistical Theory & Methods 2,STAT3602,Statistical inference
+ Northwestern University,USA,STAT 320-3,Statistical Theory & Methods 3,STAT3600,Linear statistical analysis
+ Northwestern University,USA,STAT 351,Design and Analysis of Experiments,STAT3604,Design and analysis of experiments
+ Northwestern University,USA,STAT 353,Advanced Regression,STAT3621,Statistical data analysis
+ Northwestern University,USA,STAT 354,Time Series Modeling,STAT4601,Time-series analysis
+ Northwestern University,USA,STAT 457,Applied Bayesian Inference,STAT4610,Bayesian learning
+ Northeastern University,USA,BIOL2301 + BIOL2302,Genetics and Molecular Biology + Genetics Lab,BIOL3408,Genetics
+ Northeastern University,USA,ENVR 1200,Dynamic Earth,EASC4406,Earth Dynamics & Global Tectonics
+ Northeastern University,USA,ENVR 1202,History of Earth and Life,EASC3417,Earth through time
+ Northeastern University,USA,ENVR 3418,Geophysics,EASC3408,Geophysics
+ Northeastern University,USA,MATH4683,Financial Derivatives,STAT3911,Financial economics II
+ Mount Holyoke College,USA,MATH-333-01,Differential Equations,MATH3405,Differential equations
+ Mount Holyoke College,USA,MATH350,Groups, Rings and Fields,MATH3301,Algebra I
+ Mount Holyoke College,USA,MATH355,Introduction to Analysis,MATH3401,Analysis I
+ Mount Holyoke College,USA,MATH537,Intro to Mathematics of Finance,MATH3906,Financial calculus
+ Mount Holyoke College,USA,MATH545,Lin Alg Appl Math,MATH2102,Linear algebra II
+ Indiana University,USA,E432,Field Geology Fundamentals in Montana and Wyoming,EASC4955,Integrated field studies
+ Harvard College,USA,BIOS S-12,Principles and Techniques of Molecular Biology,BIOL3401,Molecular biology
+ Harvard College,USA,CELLBIO 201,Principles of Cell Biology,BIOL3402,Cell biology and cell technology
+ Harvard College,USA,MCB 165,Interplay between Viruses and their Hosts,BIOL4409,General virology
+ Harvard College,USA,MCB 169,Molecular and Cellular Immunology,BIOL3403,Immunology
+ Harvard College,USA,OEB 57,Animal Behavior,BIOL3101,Animal behaviour
+ Harvard College,USA,STAT S-103,Epidemiology and Biostatistics,BIOL2102,Biostatistics
+ Drexel University,USA,HSCI 350,Advanced Statistics for the Health Sciences,STAT3600,Linear statistical analysis
+ Drexel University,USA,MATH 305,Introduction to Optimization Theory,MATH3904,Introduction to optimization
+ Drexel University,USA,STAT 331,Introduction to Data Mining for Business,STAT3612,Statistical machine learning
+ Cornell University,USA,BIOEE 1180,Evolution,BIOL1309,Evolutionary diversity
+ Columbia University,USA,BIOL BC2100,Molecular & Mendelian Genetics,BIOL3408,Genetics
+ Columbia University,USA,BIOL GU4310,Virology,BIOL4409,General virology
+ Columbia University,USA,BIOL GU4512,Molecular Biology,BIOL3401,Molecular biology
+ Columbia University,USA,BIOL UN3031,Genetics,BIOL3408,Genetics
+ Columbia University,USA,BIOT GU4180,Entrepreneurship in Biotechnology,BIOL2409,Biotechnology industry and entrepreneurship
+ Columbia University,USA,IEOR E6613,Optimization I,MATH3901,Operations research I
+ Columbia University,USA,IEOR E6711,Stochastic Modeling I,MATH3603,Probability theory
+ Columbia University,USA,MATH S2010,Linear Algebra,MATH2101,Linear algebra I
+ Columbia University,USA,STAT GR6201,Theoretical Statistics I,STAT3602,Statistical inference
+ Columbia University,USA,STAT GR6202,Statistical Inference Theory II,STAT7609,Research methods in statistics
+ Columbia University,USA,STAT GR6301,Probability Theory I,STAT7610,Advanced probability
+ Columbia University,USA,STAT GR6302,Probability Theory II,MATH7224,Topics in advanced probability theory
+ Boston University,USA,CAS MA22,Differential Equations,MATH3405,Differential equations
+ Boston University,USA,CAS MA581,Probability,MATH3603,Probability theory
+ Boston College,USA,BIOL3040,Cell Biology,BIOL3401,Molecular biology
+ Boston College,USA,BIOL3150,Introduction to Genomics,BIOL3408,Genetics
+ University of York,UK,MAN00052H,Contingencies II,STAT3909,Life contingencies II
+ University of York,UK,MAT00016H,Mathematical Finance II,STAT3910,Financial economics I
+ University of York,UK,MAT00021H,Multivariate Analysis,STAT4602,Multivariate data analysis
+ University of York,UK,MAT00030H,Stochastic Processes,STAT3603,Stochastic processes
+ University of York,UK,MAT00031H,Statistical Pattern Recognition,STAT3612,Statistical machine learning
+ University of York,UK,MAT00058H,Practical Data Science with R,STAT4904,Statistical learning for risk modelling
+ University of Warwick,UK,CH271,Mechanistic and Biological Chemistry,CHEM4444,Chemical Biology
+ University of Warwick,UK,CH272,Materials and Polymers,CHEM4144,Advanced materials
+ University of Warwick,UK,CS342-15,Machine Learning,STAT3612,Statistical machine learning
+ University of Warwick,UK,ST305,Designed Experiments,STAT3604,Design and analysis of experiments
+ University of Warwick,UK,ST345,Life Contingencies,STAT3909,Life contingencies II
+ University of Warwick,UK,ST420,Statistical Learning and Big Data,STAT4904,Statistical learning for risk modelling
+ University of Surrey,UK,BMS2050,Applied Nutrition,BIOL3204,Nutrition and the life cycle
+ University of Surrey,UK,BMS3058,International and Public Health Nutrition,BIOL4201,Public health nutrition
+ University of Surrey,UK,BMS3099,Mechanistic Toxicology and Pharmacokinetics,BIOL3207,Principles of toxicology
+ University of Surrey,UK,CHE1043,Physical Processes in Chemistry,CHEM1042,General chemistry I
+ University of St. Andrews,UK,MT3508,Applied Statistics,STAT3620,Modern nonparametric statistics
+ University of St. Andrews,UK,MT4519,Number Theory,MATH3304,Introduction to number theory
+ University of St. Andrews,UK,MT4527,Time Series Analysis,STAT4601,Time-series analysis
+ University of St. Andrews,UK,MT4539,Quantitative Risk Management,STAT4608,Market risk analysis
+ University of St. Andrews,UK,MT4614,Design of Experiments,STAT3604,Design and analysis of experiments
+ University of St. Andrews,UK,PH3007,Electromagnetism,PHYS3450,Electromagnetism
+ University of St. Andrews,UK,PH3012,Thermal and Statistical Physics,PHYS3550,Statistical mechanics & thermodynamics
+ University of St. Andrews,UK,PH4028,Advanced Quantum Mechanics: Concepts and Methods,PHYS4351,Advanced quantum mechanics
+ University of St. Andrews,UK,PH4038,Lagrangian and Hamiltonian Dynamics,PHYS3350,Classical mechanics
+ University of Southampton,UK,GGES2011,GGES2011,EASC3020,Global change: anthropogenic impacts
+ University of Oxford,UK,--,Cell Biology and Integration of Function,BIOL3402,Cell biology and cell technology
+ University of Oxford,UK,--,Molecular Biology and Genetics,BIOL3401,Molecular biology
+ University of Oxford,UK,--,Organic Chemistry,CHEM4441,Advanced organic chemistry
+ University of Oxford,UK,--,Inorganic Chemistry,CHEM3341 + CHEM4341,Inorganic chemistry II + Advanced inorganic chemistry
+ University of Oxford,UK,--,Physical Chemistry,CHEM3541 + CHEM3542,Physical chemistry: Introduction to quantum chemistry + Physical chemistry: statistical thermodynamics and kinetics theory
+ University of Oxford,UK,--,Chemical Pharmacology,CHEM4145,Medicinal chemistry
+ University of Oxford,UK,--,Numerical Analysis,MATH3601,Numerical analysis
+ University of Oxford,UK,--,Applied Probability,MATH3603,Probability theory
+ University of Oxford,UK,--,Functional Analysis,MATH4404,Functional analysis
+ University of Oxford,UK,--,Functional Analysis II,MATH4404,Functional analysis
+ University of Oxford,UK,--,Integer Programming,MATH3904,Introduction to optimization
+ University of Oxford,UK,--,Integration,MATH7505,Real analysis
+ University of Oxford,UK,--,Probability, Measure and Martingales,MATH7224,Topics in advanced probability theory
+ University of Oxford,UK,--,Differential Equations 1,MATH3405,Differential equations
+ University of Oxford,UK,--,Galois Theory,MATH4302,Algebra II
+ University of Oxford,UK,--,Probability,MATH3603,Probability theory
+ University of Oxford,UK,--,Metric Spaces & Complex Analysis,MATH3401 + MATH3403,Analysis I + Functions of a complex variable
+ University of Oxford,UK,--,Statistics,STAT2602,Probability and statistics II
+ University of Oxford,UK,--,Energetics and Metabolic Processes,BIOC3601,Basic Metabolism
+ University of Oxford,UK,--,Classical Mechanics,PHYS3350,Classical mechanics
+ University of Oxford,UK,--,Quantum Physics,PHYS3351,Quantum mechanics
+ University of Oxford,UK,--,Thermal Physics,PHYS3550,Statistical mechanics & thermodynamics
+ University of Oxford,UK,--,Functions of a Complex Variable + Mathematical Methods and Probability and Statistics,PHYS3150,Theoretical physics
+ University of Oxford,UK,--,Quantum Mechanics + Further Quantum Mechanics,PHYS4351,Advanced quantum mechanics
+ University of Oxford,UK,--,Quantum Mechanics,PHYS3351 + PHYS4351,Quantum mechanics + Advanced quantum mechanics
+ University of Oxford,UK,--,Electromagnetism and Optics,PHYS3850 + PHYS4450,Physical Optics + Advanced electromagnetism
+ University of Oxford,UK,IT3 + IT4 + TB1,How are genes expressed? + How is DNA copied and maintained? + How do I isolate and characterise a gene?,BIOL3401,Molecular biology
+ University of Oxford,UK,MP1 + MP5 + TB4,How chemicals move across membranes? + How do cells communicate in tissues and populations? + How do I visualize molecular structures and events inside cells?,BIOL3402,Cell biology and cell technology
+ University of Oxford,UK,MP2 + TB2 + TB3,How are proteins processed? + How do I make and use a protein + How do I get a protein structure?,BIOL3404,Protein structure and function
+ University of Oxford,UK,TS1,What are the principles of the immune response?,BIOL3403,Immunology
+ University of Nottingham,UK,BIOS2027,Molecular Biology of the Cell,BIOL3401,Molecular biology
+ University of Nottingham,UK,BIOS2029,Molecular Pharming and Biotechnology,BIOL4411,Plant and food biotechnology
+ University of Nottingham,UK,BIOS2030,Microbial Mechanisms of Food Borne Disease,BIOL3203,Food microbiology
+ University of Nottingham,UK,BIOS2036,Nutrition, Metabolism and Disease,BIOL3606,Diet and disease
+ University of Nottingham,UK,BIOS3014 + BIOS3101,Plants and the Light Environment + Tropical Ecology and Conservation,BIOL3303,Conservation biology
+ University of Nottingham,UK,MATH3020,Linear Analysis,MATH4404,Functional analysis
+ University of Manchester,UK,BIOL21132,Cell Metabolism & Metabolic Control,BIOC3601,Basic Metabolism
+ University of Manchester,UK,BIOL21152,'Omic Technologies & Resources,BIOC3604,Essential techniques in biochemistry and molecular biology
+ University of Manchester,UK,BIOL21242,Immunology,BIOL3403,Immunology
+ University of Manchester,UK,BMAN30242,Financial Engineering,STAT4607,Credit risk analysis
+ University of Manchester,UK,CHEM10212,Energy and Change,CHEM3541,Physical chemistry: Introduction to quantum chemistry
+ University of Manchester,UK,CHEM20412,Structure and reactivity of organic molecules,CHEM4441,Advanced organic chemistry
+ University of Manchester,UK,MATH37002,Martingales with Applications to Finance,STAT3910,Financial economics I
+ University of Manchester,UK,MATH39032,Mathematical Modelling in Finance,STAT3911,Financial economics II
+ University of Manchester,UK,MATH39522,Contingencies 2,STAT3909,Life contingencies II
+ University of Manchester,UK,MATH39542,Risk Theory,STAT3908,Credibility theory and loss distributions
+ University of Liverpool,UK,ENVS112,Earth Structure and Plate Tectonics,EASC4406,Earth dynamics & global tectonics
+ University of Liverpool,UK,ENVS258,Environmental Geophysics,EASC3408,Geophysics
+ University of Liverpool,UK,LIFE224 + LIFE226,Advanced Biochemical Technique + Advanced Genetics Techniques,BIOC3604,Essential techniques in biochemistry and molecular biology
+ University of Liverpool,UK,MATH260,Financial Mathematics,MATH3906,Financial calculus
+ University of Liverpool,UK,MATH269,Operational Research,MATH3901,Operations research I
+ University of Leeds,UK,BLGY2222,Animal behaviour,BIOL3101,Animal behaviour
+ University of Leeds,UK,BLGY2223,Organismal Evolution,BIOL3506,Evolutionary biology
+ University of Leeds,UK,BLGY2296,Human Genetics,BIOL3408,Genetics
+ University of Leeds,UK,BMSC1214,Human Endocrinology,BIOL3503,Endocrinology: human physiology II
+ University of Leeds,UK,FOOD2165,Nutrition in the Prevention and Treatment of Disease,BIOL3606,Diet and disease
+ University of Leeds,UK,FOOD2201,Nutritional Issues in the Life Cycle,BIOL3204,Nutrition and the life cycle
+ University of Leeds,UK,LISS1036,Genetic Engineering and Genetically Modified Plants,BIOL4411,Plant and food biotechnology
+ University of Glasgow,UK,BIOL2044,Microbiology and Immunology 2,BIOL3403,Immunology
+ University of Glasgow,UK,BIOL2044,Microbiology and Immunology 2,BIOL3203,Food microbiology
+ University of Glasgow,UK,BIOL4123,Stem cells,BIOL4416,Stem cells and regenerative biology
+ University of Glasgow,UK,BIOL4224,Medical Virology,BIOL4409,General virology
+ University of Glasgow,UK,CHEM2015,Organic Chemistry II for Visiting Student,CHEM3441,Organic chemistry II
+ University of Glasgow,UK,CHEM2015,Organic Chemistry II for Visiting Student,CHEM3443,Organic chemistry laboratory
+ University of Glasgow,UK,EARTH 40,Geological Skills: Spatial, Numerical, Geophysical and Field Methods,STAT3611,Computer-aided data analysis
+ University of Glasgow,UK,EARTH4074,Climates: Past and Future,EASC1020,Introduction to climate science
+ University of Exeter,UK,BIO1345,Structure and Reactivity of Organic Compounds I,CHEM2442,Fundamentals of organic chemistry
+ University of Exeter,UK,BIO2101,Advanced Microbiology,BIOL4401,Medical microbiology and applied immunology
+ University of Exeter,UK,ESS1008,Food Chemistry,BIOL2101,Principles of food chemistry
+ University of Exeter,UK,GEO3458,Marine and Coastal Sustainability,ENVS3028,Coastal Sustainability
+ University of Exeter,UK,MTH3024,Stochastic Processes,STAT3603,Stochastic processes
+ University of Exeter,UK,MTH3045,Statistical Computing,STAT7611,Computational statistics
+ University of Exeter,UK,MTHM506,Statistical Data Modelling,STAT7614,Advanced statistical modelling
+ University of Essex,UK,BS234-5-SP,Plant Molecular Physiology and Genetics,ENVS3202,Plant ecophysiology and climate change
+ University of Essex,UK,BS243-5-SP,Applied Wildlife Sciences,BIOL3303,Conservation biology
+ University of Essex,UK,BS345-6-SP,Climate Change and Pollution,ENVS3020,Global change ecology
+ University of Edinburgh,UK,BILG08003,Genes and Gene Action 2,BIOL3408,Genetics
+ University of Edinburgh,UK,BILG08011,Animal Biology 2,BIOL1309,Evolutionary diversity
+ University of Edinburgh,UK,BILG08018,The Microbial World 2,BIOL3508,Microbial physiology and biotechnology
+ University of Edinburgh,UK,BILG09001,Molecular Cell Biology 3,BIOL3401,Molecular biology
+ University of Edinburgh,UK,BILG09001,Molecular Cell Biology 3,BIOC4610,Advanced biochemistry
+ University of Edinburgh,UK,BILG09002,Molecular Genetics 3,BIOL3401,Molecular biology
+ University of Edinburgh,UK,BILG09005,Genomes and Genomics 3,BIOL3408,Genetics
+ University of Edinburgh,UK,BILG09007,Immunology 3,BIOL3403,Immunology
+ University of Edinburgh,UK,BILG09010,Developmental Biology 3,BIOL3314,Plant structure and evolution
+ University of Edinburgh,UK,BILG09015,Structures and Functions of Proteins 3,BIOL3404,Protein structure and function
+ University of Edinburgh,UK,BIME09002,Medical Microbiology 3,BIOL4401,Medical microbiology and applied immunology
+ University of Edinburgh,UK,BIME09006,Reproductive Biology 3,BIOL3406,Reproduction and reproductive biotechnology
+ University of Edinburgh,UK,BIME09013,Anatomy and Development 3,BIOL3205,Human physiology
+ University of Edinburgh,UK,CHEM08022,Biological Chemistry 1A,BIOC1600,Perspectives in biochemistry
+ University of Edinburgh,UK,CHEM09010,Chemistry 3A (VS2),CHEM3542,Physical chemistry: statistical thermodynamics and kinetics theory
+ University of Edinburgh,UK,CHEM10052,Chemical Medicine Level 10,CHEM4145,Medicinal chemistry
+ University of Edinburgh,UK,CHEM10057,Advanced Organic Chemistry,CHEM4441,Advanced organic chemistry
+ University of Edinburgh,UK,EASC08004,Oceanography,ENVS3313,Environmental oceanography
+ University of Edinburgh,UK,EASC08008,Introduction to Geophysics,EASC3408,Geophysics
+ University of Edinburgh,UK,EASC08020,Global Tectonics and the Rock Cycle,EASC4406,Earth Dynamics & Global Tectonics
+ University of Edinburgh,UK,GEGR10055,Remote Sensing and Global Climate Change,EASC3405,Environmental remote sensing
+ University of Edinburgh,UK,MATH10067,Honours Complex Variables,MATH3403,Functions of a complex variable
+ University of Edinburgh,UK,MATH10069,Honours Algebra,MATH2102,Linear algebra II
+ University of Edinburgh,UK,METE10001 + METE10003,Atmospheric Dynamics + Physics of Climate,EASC3415,Meteorology
+ University of Edinburgh,UK,SCIL10081,The social life of food,BIOL3217,Food, environment and health"
+ University of East Anglia,UK,ENV5035B,Sedimentology,EASC3403,Sedimentary environments
+ University of East Anglia,UK,ENV6001B,Geophysical Hazards,ENVS3007,Natural hazards and mitigation
+ University of Durham,UK,BIOL2431,Microbiology,BIOL3508,Microbial physiology and biotechnology
+ University of Durham,UK,BIOL2441,Molecular Biology,BIOL3401,Molecular biology
+ University of Durham,UK,BIOL2481,Cell Biology,BIOL3402,Cell biology and cell technology
+ University of Durham,UK,BIOL2511 + BIOL3561,Behaviour + Advanced Topics in Ecology, Evolution and Behaviour,BIOL3101 + BIOL3302 + BIOL3506,Animal behaviour + Systematics and phylogenetics + Evolutionary biology
+ University of Durham,UK,BIOL2521,Integrated Physiological Systems,BIOL3205,Human physiology
+ University of Durham,UK,BIOL3531,Stem Cells and Tissue Engineering,BIOL4416,Stem cells and regenerative biology
+ University of Durham,UK,BIOL3541,Ecology in the Anthropocene,ENVS3020,Global change ecology (+ 6 Free elective credits)
+ University of Durham,UK,BIOL3651,Genomics,BIOL3408,Genetics
+ University of Durham,UK,GEOL3281,Environmental Management,BIOL4302 + ENVS3004,Environmental impact assessment + Environment, society and economics"
+ University of Durham,UK,MATH3291,Partial Differential Equations III,MATH4406,Introduction to partial differential equations
+ University of Cambridge,UK,--,Statistical mechanics,CHEM3542,Physical chemistry: statistical thermodynamics and kinetics theory
+ University of Cambridge,UK,--,Theoretical techniques,CHEM4542,Computational chemistry
+ University of Bristol,UK,BIOL20023,Animal Behaviour,BIOL3101,Animal behaviour
+ University of Bristol,UK,MATH20004,Introduction to Geometry,MATH4501,Geometry
+ University of Birmingham,UK,03 29267,Sports Nutrition,BIOL4202,Nutrition and sports performance
+ University of Aberdeen,UK,GL2511,Geophysics,EASC3408,Geophysics
+Queen Marry, University of London,UK,BIO161,Basic Biochemistry,BIOC2600,Basic biochemistry
+Queen Marry, University of London,UK,CHE305U,Computational Chemistry,CHEM4542,Computational chemistry
+Queen Marry, University of London,UK,CHE306U,Advanced Pharmaceutical Chemistry,CHEM4145,Medicinal chemistry
+Queen Marry, University of London,UK,CHE307,Bioorganic Chemistry,CHEM4444,Chemical Biology
+Queen Marry, University of London,UK,ECN358,Futures and Options,STAT3910,Financial economics I
+ London School of Economics and Political Science,UK,EC212,Introduction to Econometrics,STAT3907,Linear models and forecasting
+ King's College London,UK,4BBY1070,Genetics and Molecular Biology,BIOL3408,Genetics
+ King's College London,UK,5BBA0330,Biomechanics,BBMS3018,Biomechanics and Biomedical Technologies
+ King's College London,UK,5BBB0209,Cell Biology,BIOL3402,Cell biology and cell technology
+ King's College London,UK,5BBB0223,Metabolism,BIOC3601,Basic metabolism
+ King's College London,UK,5BBB0224,Protein Structure and Function,BIOL3404,Protein structure and function
+ King's College London,UK,5BBBMB28,Medical Microbiology,BIOL4401,Medical microbiology and applied immunology
+ King's College London,UK,5BBBMB28,Medical Microbiology,BIOL3508,Microbial physiology and biotechnology
+ King's College London,UK,5BBG0203,Human and Molecular Genetics A,BIOL3408,Genetics
+ King's College London,UK,5BBL0227,Introduction to Stem Cells,BIOL4416,Stem cells and regenerative biology
+ King's College London,UK,5CCC0030,Physical Chemistry 3,CHEM3542,Physical chemistry: statistical thermodynamics and kinetics theory
+ King's College London,UK,6CCM338A,Mathematical Finance II Continuous Time,MATH3906,Financial calculus
+ King's College London,UK,6CCM338A,Mathematical Finance II: Continuous Time,STAT3911,Financial economics II
+ King's College London,UK,6CCM342A,Statistical Inference,STAT3602,Statistical inference
+ King's College London,UK,6CCM344A,Time Series Analysis,STAT4601,Time-series analysis
+ Royal Holloway, University of London,UK,BS 2540,Immunology,BIOL3403,Immunology
+ Royal Holloway, University of London,UK,BS 2560,Pharmacology and Toxicology,BIOL3207,Principles of toxicology
+ Royal Holloway, University of London,UK,BS 3420,Nutrition and Medical Biochemistry,BIOL3202,Nutritional biochemistry
+ University of Geneva,Switzerland,J2D231,International Environmental Law,ENVS3004,Environment, society and economics"
+ Uppsala University,Sweden,2ST071,Multivariate Analysis,STAT4602,Multivariate data analysis
+ Uppsala University,Sweden,2ST093,Time Series Analysis,STAT4601,Time-series analysis
+ Stockholm University,Sweden,GG4147 + GG4211,Tectonics + Mineralogy and Petrology,EASC4406,Earth Dynamics & Global Tectonics
+ Stockholm University,Sweden,GG4213,Structural Geology and Mapping,EASC3404,Structural geology
+ Lund University,Sweden,BIOR85,Biology: Immunology,BIOL3403,Immunology
+ Lund University,Sweden,FYST21,Physics: Light-Matter Interaction,PHYS3750,Foundations of laser and spectroscopy
+ Lund University,Sweden,FYTB13,Theoretical Physics: Electromagnetism,PHYS3450,Electromagnetism
+ University of Navarra,Spain,--,Financial Derivatives,STAT3618,Derivatives and risk management
+ University of Navarra,Spain,--,Time Series,STAT4601,Time-series analysis
+ University of Navarra,Spain,BIO-05497,Biostatistics,BIOL2102,Biostatistics
+ University of Johannesburg,South Africa,APM02A2,Applied Mathematics 2A,MATH3405,Differential equations
+ University of Johannesburg,South Africa,STA03A3,Statistics 3A,STAT3600,Linear statistical analysis
+ National University of Singapore,Singapore,CM1121,Organic Chemistry 1,CHEM2441,Organic chemistry I
+ National University of Singapore,Singapore,CM3242,Instrumental Analysis II,CHEM3241,Analytical chemistry II: chemical instrumentation
+ National University of Singapore,Singapore,CM3253,Materials Chemistry 1,CHEM4144,Advanced materials
+ National University of Singapore,Singapore,CM3261,Environmental Chemistry,CHEM3141,Environmental chemistry
+ National University of Singapore,Singapore,EC2303,Foundations for Econometrics,STAT1603,Introductory statistics
+ National University of Singapore,Singapore,EE2211,Introduction to Machine Learning,STAT3612,Statistical machine learning
+ National University of Singapore,Singapore,FST2108,Food Safety Assurance,BIOL3218,Food hygiene and quality control
+ National University of Singapore,Singapore,FST2201,Introduction to Human Nutrition,BIOL3202,Nutritional biochemistry
+ National University of Singapore,Singapore,FST5203,Advanced Food Microbiology and Safety,BIOL3203,Food microbiology
+ National University of Singapore,Singapore,LSM2106,Fundamental Biochemmistry,BIOC2600,Basic biochemistry
+ National University of Singapore,Singapore,LSM3223,Immunology,BIOL3403,Immunology
+ National University of Singapore,Singapore,LSM3243,Molecular Biophysics,BIOL3404,Protein structure and function
+ National University of Singapore,Singapore,MA1102R,Calculus,MATH1013,University mathematics II
+ National University of Singapore,Singapore,MA2001,Linear algebra I,MATH2101,Linear algebra I
+ National University of Singapore,Singapore,MA2101,Linear Algebra II,MATH2102,Linear algebra II
+ National University of Singapore,Singapore,MA2104,Multivariable Calculus,MATH2211,Multivariable calculus
+ National University of Singapore,Singapore,MA2213,Numerical Analysis I,MATH3601,Numerical analysis
+ National University of Singapore,Singapore,MA3111,Complex Analysis I,MATH3403,Functions of a complex variable
+ National University of Singapore,Singapore,MA3209,Mathematical Analysis III,MATH3401,Analysis I
+ National University of Singapore,Singapore,MA3211,Complex Analysis I,MATH3403,Functions of a complex variable
+ National University of Singapore,Singapore,MA3220,Ordinary Differential Equations,MATH3405,Differential equations
+ National University of Singapore,Singapore,MA3236,Non-linear Programming,MATH3904,Introduction to optimization
+ National University of Singapore,Singapore,MA3252,Linear and Network Optimisation,MATH3943,Network models in operations research
+ National University of Singapore,Singapore,MA3252,Linear and Network Optimisation,MATH3901,Operations research I
+ National University of Singapore,Singapore,MA3265,Introduction to Number Theory,MATH3304,Introduction to number theory
+ National University of Singapore,Singapore,MA4221,Partial Differential Equations,MATH4406,Introduction to partial differential equations
+ National University of Singapore,Singapore,QF2104,Fundamentals of Quantitative Finance,STAT3615,Practical mathematics for investment
+ National University of Singapore,Singapore,ST1232,Statistics for Life Sciences,BIOL2102,Biostatistics
+ National University of Singapore,Singapore,ST3131,Regression Analysis,STAT3600,Linear statistical analysis
+ National University of Singapore,Singapore,ST3232,Design & Analysis of Experiments,STAT3604,Design and analysis of experiments
+ National University of Singapore,Singapore,ST3236,Stochastic Processes I,STAT3603,Stochastic processes
+ National University of Singapore,Singapore,ST3246,Statistical Models for Actuarial Science,STAT3908,Credibility theory and loss distributions
+ National University of Singapore,Singapore,ST4248,Statistical Learning II,STAT3621,Statistical data analysis
+ National University of Singapore,Singapore,ST4250,Multivariate Statistical Analysis,STAT4602,Multivariate data analysis
+ National University of Singapore,Singapore,ST4253,Applied Time Series Analysis,STAT4601,Time-series analysis
+ Nanyang Technological University,Singapore,MH4500,Time Series Analysis,STAT4601,Time-series analysis
+ Nanyang Technological University,Singapore,MH4501,Multivariate Analysis,STAT4602,Multivariate data analysis
+ Yonsei University,Republic of Korea,BCH3109,Molecular Biology,BIOL3401,Molecular biology
+ Yonsei University,Republic of Korea,BIO3102,Microbiology,BIOL3508,Microbial physiology and biotechnology
+ Yonsei University,Republic of Korea,BIO3104,Immunology,BIOL3403,Immunology
+ Yonsei University,Republic of Korea,BIO3503,Cell BIology II,BIOL3402,Cell biology and cell technology
+ Yonsei University,Republic of Korea,BTE3101,Cell Biotechnology,BIOL3402,Cell biology and cell technology
+ Yonsei University,Republic of Korea,BTE3102,Molecular Biology,BIOL3401,Molecular biology
+ Yonsei University,Republic of Korea,BTE4603,Functional Genomics,BIOL4417,'Omics' and systems biology
+ Yonsei University,Republic of Korea,CHE3102,Analytical Chemistry,CHEM3241,Analytical chemistry II: chemical instrumentation
+ Yonsei University,Republic of Korea,CHE3110,Organic Chemistry,CHEM3441,Organic chemistry II
+ Yonsei University,Republic of Korea,CHE3117,Physical Chemistry Experiment,CHEM3541,Physical chemistry: Introduction to quantum chemistry
+ Yonsei University,Republic of Korea,IEE2024,Cell Biology,BIOL3402,Cell biology and cell technology
+ Yonsei University,Republic of Korea,IEE2030,Organic Chemistry 1,CHEM2441,Organic chemistry I
+ Yonsei University,Republic of Korea,IEE2089,Introduction to Probability and Statistics for Machine Learning,STAT2601,Probability and statistics I
+ Yonsei University,Republic of Korea,IEE3593,Introduction to Big Data Analysis,STAT4609,Big data analytics
+ Yonsei University,Republic of Korea,IEE3595,Introductory Biochemistry,BIOC1600,Perspectives in biochemistry
+ Yonsei University,Republic of Korea,LST2003,Genetics,BIOL3408,Genetics
+ Yonsei University,Republic of Korea,MAT2106,Discrete Mathematics,MATH3600,Discrete mathematics
+ Yonsei University,Republic of Korea,MAT4112,Field Theory,MATH4302,Algebra II
+ Yonsei University,Republic of Korea,PHY4113,Nuclear Physics,PHYS3851,Atomic and nuclear physics
+ Yonsei University,Republic of Korea,STA1002,Calculus,MATH1013,University mathematics II
+ Yonsei University,Republic of Korea,STA2104,R and Python Programming,STAT2604,Introduction to R/Python programming and elementary data analysis
+ Yonsei University,Republic of Korea,STA3102,Multivariate Analysis,STAT4602,Multivariate data analysis
+ Yonsei University,Republic of Korea,STA3109,Mathematical Statistics II,STAT2602,Probability and statistics II
+ Yonsei University,Republic of Korea,STA3110,Time Series Analysis,STAT4601,Time-series analysis
+ Yonsei University,Republic of Korea,STA3111,Experimental Design,STAT3604,Design and analysis of experiments
+ Yonsei University,Republic of Korea,STA3126,Mathematical Statistics I,STAT2601,Probability and statistics I
+ Sungkyunkwan University,Republic of Korea,IBT-2003-41,Genetics,BIOL3408,Genetics
+ Sungkyunkwan University,Republic of Korea,IBT2002,Microbiology,BIOL3508,Microbial physiology and biotechnology
+ Sungkyunkwan University,Republic of Korea,IBT2004-41,Molecular Biology,BIOL3401,Molecular biology
+ Sungkyunkwan University,Republic of Korea,IBT2007,Immunology,BIOL3403,Immunology
+ Sungkyunkwan University,Republic of Korea,IBT2041,Integrative Cell Biology,BIOL3402,Cell biology and cell technology
+ Seoul National University,Republic of Korea,326.214,Sampling Design and Survey Practice,STAT3617,Sample survey methods
+ Seoul National University,Republic of Korea,326.316,Multivariate Data Analysis and Lab,STAT4602,Multivariate data analysis
+ Seoul National University,Republic of Korea,3343.412,Computational Chemistry,CHEM4542,Computational chemistry
+ Seoul National University,Republic of Korea,3346.403,Immunology,BIOL3403,Immunology
+ Seoul National University,Republic of Korea,352.302B,Advanced Nutrition,BIOL3202,Nutritional biochemistry
+ Seoul National University,Republic of Korea,500.203,Genetics & Lab.,BIOL3408,Genetics
+ Seoul National University,Republic of Korea,5252.306 + 300.312,Animal Biotechnology Lab. + Biochemistry 1,BIOC3604,Essential techniques in biochemistry and molecular biology
+ Seoul National University,Republic of Korea,886.034,Introduction to Chemical Biology,CHEM4444,Chemical Biology
+ Seoul National University,Republic of Korea,900.579A,Introduction to Biostatistics,BIOL2102,Biostatistics
+ Seoul National University,Republic of Korea,M1460.001000,Community Nutrition,BIOL4201,Public health nutrition
+ Pusan National University,Republic of Korea,BP2500475,Plant Biotechnology,BIOL4411,Plant and food biotechnology
+ Pusan National University,Republic of Korea,IE2400210,Engineering Statistics (I),STAT1602,Business statistics
+ Pusan National University,Republic of Korea,MB24430,Molecular Genetics,BIOL3408,Genetics
+ Korea University,Republic of Korea,AMSE202,Physical Chemistry II,CHEM3541,Physical chemistry: Introduction to quantum chemistry
+ Korea University,Republic of Korea,BUSS256,Introduction to Big Data Analytics and Interpretation,STAT4609,Big data analytics
+ Korea University,Republic of Korea,BUSS386,Futures and Options Markets,STAT3618,Derivatives and risk management
+ Korea University,Republic of Korea,COSE423,Introduction To Convex Optimization,MATH3904,Introduction to optimization
+ Korea University,Republic of Korea,COSE461,Natural Language Processing,STAT4011,Natural language processing
+ Korea University,Republic of Korea,COSE471,Data Science Machine Learning,STAT3612,Statistical machine learning
+ Korea University,Republic of Korea,IMEN357(00),Optimization Theory and Models,MATH3904,Introduction to optimization
+ Korea University,Republic of Korea,ISA107,General Chemistry I,CHEM1041,Foundations of chemistry
+ Korea University,Republic of Korea,ISC101A,Calculus I,MATH1013,University mathematics II
+ Korea University,Republic of Korea,ISC10500,General Biology,BIOL1110,From molecules to cells
+ Korea University,Republic of Korea,ISC112,Linear Algebra (with calculus),MATH2014,Multivariable calculus and linear algebra
+ Korea University,Republic of Korea,ISC11200,Linear Algebra,MATH2101,Linear algebra I
+ Korea University,Republic of Korea,ISC207A,Statistics,STAT1603,Introductory statistics
+ Korea University,Republic of Korea,ISC207B,Statistics,STAT2601,Probability and statistics I
+ Korea University,Republic of Korea,ISC356,Big Data Analytics,STAT4609,Big data analytics
+ Korea University,Republic of Korea,ISC356B,Big Data Analytics,STAT4609,Big data analytics
+ Korea University,Republic of Korea,ISC426,Introduction to Machine Learning,STAT3612,Statistical machine learning
+ Korea University,Republic of Korea,IWC101,Calculus I,MATH1821,Mathematical methods for actuarial science I
+ Korea University,Republic of Korea,IWC101,Calculus I,MATH1013,University mathematics II
+ Korea University,Republic of Korea,IWC112,Linear Algebra,MATH2101,Linear algebra I
+ Korea University,Republic of Korea,IWC207,Statistics,STAT1603,Introductory statistics
+ Korea University,Republic of Korea,IWC356,Big Data Analytics,STAT4609,Big data analytics
+ Korea University,Republic of Korea,IWC503,Data Analytics and Applications,STAT4904,Statistical learning for risk modelling
+ Korea University,Republic of Korea,KHES238,Human Anatomy and Physiology with Laboratory,BIOL3205,Human physiology
+ Korea University,Republic of Korea,LIFS219,Food Microbiology I (English),BIOL3203,Food microbiology
+ Korea University,Republic of Korea,LIFS323,Food Analysis,BIOL3209,Food and nutrient analysis
+ Korea University,Republic of Korea,LIFS466,Food Toxicology,BIOL3207,Principles of toxicology
+ Korea University,Republic of Korea,LIST202,Cell BIology II,BIOL3402,Cell biology and cell technology
+ Korea University,Republic of Korea,LIST204,Microbiology II,BIOL3508,Microbial physiology and biotechnology
+ Korea University,Republic of Korea,LIST301,Molecular Biology I (English),BIOL3401,Molecular biology
+ Korea University,Republic of Korea,LIST302,Molecular Biology II,BIOL3401,Molecular biology
+ Korea University,Republic of Korea,LIST304,Genetics II,BIOL3408,Genetics
+ Korea University,Republic of Korea,STAT342,Regression Analysis,STAT3600,Linear statistical analysis
+ Korea University,Republic of Korea,STAT409(00),Statistical Data Science II,STAT3612,Statistical machine learning
+ University of Bergen,Norway,GEOF212,Physical Climatology,ENVS3202,Plant ecophysiology and climate change
+ University of Bergen,Norway,SDG207,Energy Transition,ENVS3010,Sustainable energy and environment
+ University of Bergen,Norway,SDG214,UN Sustainable Development Goal 14: Life below water,ENVS3313,Environmental oceanography
+ University of Otago,New Zealand,MARI201,Oceanography: The Physical Ocean,ENVS3313,Environmental oceanography
+ University of Otago,New Zealand,PHSL251,Exploring Human Physiology,BIOL3205,Human physiology
+ University of Otago,New Zealand,STAT110,Statistical Methods,BIOL2102,Biostatistics
+ University of Canterbury,New Zealand,BIOL212,Marine Biology and Ecology,BIOL3301,Marine biology
+ University of Canterbury,New Zealand,BIOL250,Principles of Animal Physiology,BIOL3105,Animal physiology and environmental adaptation
+ University of Canterbury,New Zealand,BIOL333,Molecular Genetics,BIOL3408,Genetics
+ University of Canterbury,New Zealand,BIOL377,Global Change and Biosecurity,ENVS3020,Global change ecology
+ University of Canterbury,New Zealand,ENNR320,Environmental Impact Modelling and Assessment,BIOL4302,Environmental impact assessment
+ University of Auckland,New Zealand,EARTHSCI 303,Sedimentary Systems,EASC3403,Sedimentary environments
+ University of Auckland,New Zealand,GEOG 351,Coastal and Marine Studies,EASC3418,Coasts and coastal change
+ University of Amsterdam,Netherlands,5122FIWI6Y,Financial Mathematics,MATH3906,Financial calculus
+ University of Amsterdam,Netherlands,5122FUAN6Y,Functional Analysis,MATH4404,Functional analysis
+ University of Amsterdam,Netherlands,900171SCIY,Introduction to Public Heath,BIOL4201,Public health nutrition
+ University of Amsterdam,Netherlands,900314SCIY,Theme Health and Well-being: Lifestyle and Disease,BIOL3606,Diet and disease
+ Tilburg University,Netherlands,500189B-6,Introduction to data science,STAT3612,Statistical machine learning
+ Tilburg University,Netherlands,822187B-6,Statistics for CSAI I,STAT2604,Introduction to R/Python programming and elementary data analysis
+ University of International Business and Economics,Mainland China,MAT 210,Linear Algebra,MATH2101,Linear algebra I
+ University of International Business and Economics,Mainland China,MAT 230,Multivariable Calculus (Calculus III),MATH2211,Multivariable calculus
+ Shanghai Jiao Tong University,Mainland China,BU307,Marketing Intelligence,STAT3613,Marketing analytics
+ Shanghai Jiao Tong University,Mainland China,IM081,Introduction to Statistical Learning (Postgraduate),STAT3612,Statistical machine learning
+ Shanghai Jiao Tong University,Mainland China,MA077,Linear Algebra,MATH2101,Linear algebra I
+ Shanghai Jiao Tong University,Mainland China,MA082,CalculusIII,MATH2211,Multivariable calculus
+ Shanghai Jiao Tong University,Mainland China,MA082 + MA077,Calculus III + Linear Algebra,MATH2014,Multivariable calculus and linear algebra
+ Shanghai Jiao Tong University,Mainland China,MA413,Time Series & Random Processes in Linear Systems,STAT4601,Time-series analysis
+ Shanghai Jiao Tong University,Mainland China,MATH4704,Stochastic Process,STAT3603,Stochastic processes
+ Shanghai Jiao Tong University,Mainland China,ST305,Statistical Inference,STAT3602,Statistical inference
+ Shanghai Jiao Tong University,Mainland China,STA224,Multivariate Data Analysis,STAT4602,Multivariate data analysis
+ Peking University,Mainland China,1130150,Cell Biology,BIOL3402,Cell biology and cell technology
+ Peking University,Mainland China,1139920,Immunology,BIOL3403,Immunology
+Fudan University, Shanghai,Mainland China,--,Probability and Statistics,STAT1600,Statistics: ideas and concepts
+Fudan University, Shanghai,Mainland China,BIOL13008,Cell Biology,BIOC4610,Advanced biochemistry
+Fudan University, Shanghai,Mainland China,ECON2130001,Probability and Statistics,STAT1603,Introductory statistics
+Fudan University, Shanghai,Mainland China,ECON2130037,Risk Management and Derivatives,STAT3618,Derivatives and risk management
+ Vilnius University,Lithuania,15490,Biogeography,ENVS1301,Environmental life science
+ Vilnius University,Lithuania,15493,Ecotoxicology,BIOL3110,Environmental toxicology
+ Vilnius University,Lithuania,15662 + 15667,Coastal Research and Introduction to Coastal Management + Remote Sensing,EASC3405,Environmental remote sensing
+ Vilnius University,Lithuania,15671,Specialized Meteorological Information,EASC1020,Introduction to climate science
+ Vilnius University,Lithuania,15675,Urban Climate,ENVS3019,Urban Ecology
+ Vilnius University,Lithuania,17407,Plant Signaling and Behavior,BIOL3107,Plant physiology
+ Vilnius University,Lithuania,17412,Cell Structure,BIOL3402,Cell biology and cell technology
+ Vilnius University,Lithuania,17414,Microbiota-Gut-Brain Axis Research,BIOL3508,Microbial physiology and biotechnology
+ Vilnius University,Lithuania,18271,Human Physiology,BIOL3205,Human physiology
+ Vilnius University,Lithuania,19543,Human Physiology,BIOL3205,Human physiology
+ Vilnius University,Lithuania,19708,Biochemistry,BIOC2600,Basic biochemistry
+ University of Latvia,Latvia,BIOL2044 + BIOL3132,General Ecology II + Genetic Analysis,BIOL3408,Genetics
+ University of Latvia,Latvia,BIOL5023 + BIOL5041,The Topical Problems of Aquatic Ecology + Limnology,BIOL3301,Marine biology
+ Kyoto University,Japan,N168001 + N178001,Mathematical Description of Natural Phenomena + Mathematical Description of Natural Phenomena - E2,MATH1011,University mathematics I
+ Kyoto University,Japan,N248001 + N249001,Introduction to Cosmology-E2 + Theory of Special Relativity-E2,PHYS2055,Introductory relativity
+ Kyoto University,Japan,N368002 + N369002,Basic Organic Chemistry I-E2 + Basic Organic Chemistry II-E2,CHEM2441,Organic chemistry I
+ Kyoto University,Japan,N496001 + N939001,Conservation Biology-E2 +  Introduction to Ecology and Evolution-E2,BIOL2306,Ecology and evolution
+ Kyoto University,Japan,N559001 + N566001,Introduction to Hydrology - E2 + Science on Water, Soil and Ecosystems - E2,EASC3410,Hydrogeology
+ Kyoto University,Japan,N804002 + N809001 + N813002,Introductory Statistics-E2 + Basic Data Analysis-E2 + Data Analysis Practice I-E2,BIOL2102,Biostatistics
+ Kyoto University,Japan,U-LAS04 20040 LE45 + U-LAS61 10015 LE15,Disaster and Culture + Natural disaster science,ENVS3007,Natural hazards and mitigation
+ Kyoto University,Japan,U-LAS14 20020 LE68 + U-LAS14 20022 LE68,Comparative Cognition + Animal Behavior,BIOL3101,Animal behaviour
+ Kyoto University,Japan,Y208001 + Y225001,Chemistry, Society and Environment - E2 + Introduction to Biogeochemistry - E2,EASC4403,Biogeochemical cycles
+ Kyoto University,Japan,Y214001 + Z002057,Natural Disaster Science + ILAS Seminar-E2: Geo-Disaster Risk Reduction and Prevention,ENVS3007,Natural hazards and mitigation
+ Kyoto University,Japan,Z002003 + N270001,ILAS Seminar-E2 :The wonderful world of quantum physics + Introduction to Quantum Physics-E2,PHYS2265,Introductory quantum physics
+ University College Dublin,Ireland,MST30030,Financial Mathematics,STAT3618,Derivatives and risk management
+ Hong Kong University of Science and Technology,Hong Kong,OCES1030,Environmental Science,ENVS1401,Introduction to environmental science
+ University of Freiburg,Germany,09LE03S-SP1-03_0003 + 09LE03??-SP1-03_0002 + 09LE03V-SP1-03_0001,Advanced Immunobiology + Experimental Immunobiology (B, T and innate cells) + Advanced Immunobiology,BIOL3403,Immunology (+ 6 Free elective credits)
+ Eberhard Karls Universitat Tubingen,Germany,--,Bioinformatics for Life Scientists,BIOC3605,Sequence bioinformatics
+ Aalto University,Finland,CHEM-C2340 + CHEM-E1130,Industrial Biomass Processes + Catalysis,CHEM3142,Chemical process industries and analysis
+ Aalto University,Finland,CHEM-E8105,Enzymatic and Biomimetic Catalysis,CHEM4444,Chemical Biology
+ University of Copenhagen,Denmark,LNAK10010U,Environmental Impact Assessment,BIOL4302,Environmental impact assessment
+ University of Copenhagen,Denmark,NNMK17004U,Introduction to Ecological Data Analysis with R,ENVS2002,Environmental data analysis
+ University of Copenhagen,Denmark,NPLB17003U,Experimental Molecular Biology,BIOC3604,Essential techniques in biochemistry and molecular biology
+ Technical University of Denmark,Denmark,23102,Food safety in production chains,BIOL3203,Food microbiology
+ Technical University of Denmark,Denmark,23256,Epidemiology - an introduction,BIOL4201,Public health nutrition
+ Technical University of Denmark,Denmark,26400,Organic chemistry 1,CHEM2442,Fundamentals of organic chemistry
+ Technical University of Denmark,Denmark,27008,Life science,BIOL3401,Molecular biology
+ York University,Canada,BIOL 3120,Immunobiology,BIOL3403,Immunology
+ York University,Canada,BIOL 3130,Molecular Biology II: Regulation of Gene Expression,BIOL3401,Molecular biology
+ York University,Canada,CHEM 2020,Introductory Organic Chemistry I,CHEM2441,Organic chemistry I
+ University of Western Ontario,Canada,3380G,Biochemistry Laboratory,BIOC3604,Essential techniques in biochemistry and molecular biology
+ University of Western Ontario,Canada,3594B,DNA: Genome Organization, Mutagenesis and Repair,BIOL3401,Molecular biology
+ University of Western Ontario,Canada,AS4426/AS9426,Actuarial Practice,STAT3953,Fundamentals of actuarial practice
+ University of Western Ontario,Canada,AS4823A/AS9004A,Survival Analysis,STAT3955,Survival analysis
+ University of Western Ontario,Canada,BIOLOGY 2581B,Genetics,BIOL3408,Genetics
+ University of Western Ontario,Canada,BIOLOGY 3316B,Advanced Cell Biology,BIOL3402,Cell biology and cell technology
+ University of Western Ontario,Canada,CHEM 3393B,Medicinal Chemistry,CHEM4145,Medicinal chemistry
+ University of Western Ontario,Canada,EARTHSCI1070B,Geology and Resources of Earth,EASC1402,Principles of geology
+ University of Western Ontario,Canada,FM3520A,Financial Modelling,STAT3910,Financial economics I
+ University of Western Ontario,Canada,STATS 2244B,Statistics for Science,BIOL2102,Biostatistics
+ University of Waterloo,Canada,ACTSC 331,Life Contingencies 2,STAT3909,Life contingencies II
+ University of Waterloo,Canada,ACTSC 363,Casualty and Health Insurance Mathematics,STAT3906,Risk theory I
+ University of Waterloo,Canada,ACTSC 371,Introduction to Investments,STAT3609,The statistics of investment risk
+ University of Waterloo,Canada,ACTSC 431,Loss Models 1,STAT3906,Risk theory I
+ University of Waterloo,Canada,ACTSC 432,Property and Casualty Insurance: Pricing,STAT3908,Credibility theory and loss distributions
+ University of Waterloo,Canada,ACTSC 433,Analysis of Survival Data,STAT3955,Survival analysis
+ University of Waterloo,Canada,ACTSC 445,Quantitative Enterprise Risk Management,STAT4608,Market risk analysis
+ University of Waterloo,Canada,ACTSC 446,Mathematics of Financial Markets,STAT3911,Financial economics II
+ University of Waterloo,Canada,ACTSC 463,Introduction to Property and Casualty Loss Reserving,STAT4903,Actuarial techniques for general insurance
+ University of Waterloo,Canada,AMATH 250,Introduction to Differential Equations,MATH3405,Differential equations
+ University of Waterloo,Canada,AMATH250,Introduction to Differential Equations,MATH3405,Differential equations
+ University of Waterloo,Canada,CO250,Introduction to Optimization,MATH3904,Introduction to optimization
+ University of Waterloo,Canada,MATBUS 470,Derivatives,STAT3910,Financial economics I
+ University of Waterloo,Canada,MATH 235,Linear Algebra 2,MATH2102,Linear algebra II
+ University of Waterloo,Canada,MATH 239,Introduction to Combinatorics,MATH3600,Discrete mathematics
+ University of Waterloo,Canada,PMATH 340,Elementary Number Theory,MATH3304,Introduction to number theory
+ University of Waterloo,Canada,PMATH 348,Fields and Galois Theory,MATH4302,Algebra II
+ University of Waterloo,Canada,PMATH 352,Complex Analysis,MATH3403,Functions of a complex variable
+ University of Waterloo,Canada,STAT 340,Computer Simulation of Complex Systems,STAT3616,Advanced SAS programming
+ University of Waterloo,Canada,STAT 340,Stochastic Simulation Methods,STAT3616,Advanced SAS programming
+ University of Waterloo,Canada,STAT 441,Statistical Learning- Classification,STAT4904,Statistical learning for risk modelling
+ University of Waterloo,Canada,STAT 443,Forecasting,STAT4601,Time-series analysis
+ University of Victoria,Canada,BIOL230,Principles of Genetics,BIOL3408,Genetics
+ University of Victoria,Canada,BIOL324,Biology of Land Plants,BIOL3314,Plant structure and evolution
+ University of Victoria,Canada,CHEM 231,Introductory Organic Chemistry,CHEM2441,Organic chemistry I
+ University of Victoria,Canada,STAT457,Time Series Analysis,STAT4601,Time-series analysis
+ University of Victoria,Canada,STAT469,Machine Learning,STAT3612,Statistical machine learning
+ University of Toronto,Canada,ACT370H1,Financial Principles for Actuarial Science II,STAT3910,Financial economics I
+ University of Toronto,Canada,ACT370H1,Financial Principles for Actuarial Science II,STAT3618,Derivatives and risk management
+ University of Toronto,Canada,ACT371H1,Basic Reserving Methods for P&C Insurance,STAT4903,Actuarial techniques for general insurance
+ University of Toronto,Canada,ACT451H1,Loss Models,STAT3906,Risk theory I
+ University of Toronto,Canada,ACT455H1,Advanced Topics in Actuarial Science,STAT3909,Life contingencies II
+ University of Toronto,Canada,ACT460H1,Stochastic Methods for Actuarial Science,STAT3911,Financial economics II
+ University of Toronto,Canada,ACT466H1,Credibility and Simulation,STAT3908,Credibility theory and loss distributions
+ University of Toronto,Canada,ACT470H1,Advanced Pension Mathematics,STAT3956,Pension funds and pension mathematics
+ University of Toronto,Canada,APM461H1,Combinatorial Methods,MATH3600,Discrete mathematics
+ University of Toronto,Canada,CHM317H1,Introduction to Instrumental Methods of Analysis,CHEM3241,Analytical chemistry II: chemical instrumentation
+ University of Toronto,Canada,CHM326H1,Introductory Quantum Mechanics and Spectroscopy,CHEM3541,Physical chemistry: Introduction to quantum chemistry
+ University of Toronto,Canada,CHM328H1,Modern Physical Chemistry,CHEM3542,Physical chemistry: statistical thermodynamics and kinetics theory
+ University of Toronto,Canada,CHM343H1,Organic Laboratory,CHEM3443,Organic chemistry laboratory
+ University of Toronto,Canada,CHM432H1,Organometallic Chemistry and Catalysis,CHEM4342,Organometallic chemistry
+ University of Toronto,Canada,EEB125H1,Introductory Computation and Data Science for the Life and Physical Sciences,EASC2410,Data analysis and modeling in earth sciences
+ University of Toronto,Canada,MAT135H1,Calculus I,MATH1011,University mathematics I
+ University of Toronto,Canada,MAT138H1,Introduction to Proofs,MATH2012,Fundamental concepts of mathematics
+ University of Toronto,Canada,MAT224H1,Linear Algebra II,MATH2102,Linear algebra II
+ University of Toronto,Canada,MAT244H1,Introduction to Ordinary Differential Equations,MATH3405,Differential equations
+ University of Toronto,Canada,MAT334H1,Complex Variables,MATH3403,Functions of a complex variable
+ University of Toronto,Canada,PHY354H1,Advanced Classical Mechanics,PHYS3350,Classical mechanics
+ University of Toronto,Canada,PHY385H1,Introductory Optics,PHYS3850,Physical Optics
+ University of Toronto,Canada,POL232H1,Introduction to Quantitative Reasoning II,STAT2604,Introduction to R/Python programming and elementary data analysis
+ University of Toronto,Canada,STA302H1,Methods of Data Analysis I,STAT3600,Linear statistical analysis
+ University of Toronto,Canada,STA305H1,Design and Analysis of Experiments,STAT3604,Design and analysis of experiments
+ University of Toronto,Canada,STA348H5,Introduction to Stochastic Processes,STAT3603,Stochastic processes
+ University of Toronto,Canada,STA414H1,Statistical Methods for Machine Learning II,STAT3612,Statistical machine learning
+ University of Toronto,Canada,STA414H1,Statistical Methods for Machine Learning II,STAT4904,Statistical learning for risk modelling
+ University of Toronto,Canada,STA437H1,Methods for Multivariate Data,STAT4602,Multivariate data analysis
+ University of Toronto,Canada,STA457H1,Time Series Analysis,STAT4601,Time-series analysis
+ University of Ottawa,Canada,BCH3125,Protein structure and function,BIOL3404,Protein structure and function
+ University of Calgary,Canada,ACSC515,Models for Financial Economics,STAT3911,Financial economics II
+ University of Calgary,Canada,MATH277,Multivariable Calculus for Engineers and Scientists,MATH2211,Multivariable calculus
+ University of British Columbia,Canada,BIOL 234,Fundamentals of Genetics,BIOL3408,Genetics
+ University of British Columbia,Canada,BIOL 300,Fundamentals of Biostatistics,BIOL2102,Biostatistics
+ University of British Columbia,Canada,BIOL 335,Molecular Genetics,BIOL3401,Molecular biology
+ University of British Columbia,Canada,EOSC 320,Sedimentology,EASC3403,Sedimentary environments
+ University of British Columbia,Canada,EOSC 333,Elemental and Isotopic Geochem,EASC2406,Geochemistry
+ University of British Columbia,Canada,FNH 313,Food Microbiology,BIOL3203,Food microbiology
+ University of British Columbia,Canada,FNH 371,Human Nutrition over the Lifespan,BIOL3204,Nutrition and the life cycle
+ University of British Columbia,Canada,FNH 402,Functional Foods and Nutraceuticals,BIOL4209,Functional foods
+ University of British Columbia,Canada,FNH 474,Sport Nutrition,BIOL4202,Nutrition and sports performance
+ University of British Columbia,Canada,FNH 477,Nutrition and Disease Prevention,BIOL3606,Diet and disease
+ University of British Columbia,Canada,GEOS 373,Introductory Remote Sensing,EASC3405,Environmental remote sensing
+ University of British Columbia,Canada,MATH340,Introduction to Linear Programming,MATH3901,Operations research I
+ University of British Columbia,Canada,PHYS 301,Electricity and Magnetism,PHYS2255,Introductory electricity and magnetism
+ University of British Columbia,Canada,PHYS 306,Advanced Mechanics,PHYS3350,Classical mechanics
+ University of British Columbia,Canada,PHYS 403,Statistical Mechanics,PHYS3550,Statistical mechanics & thermodynamics
+ University of British Columbia,Canada,STAT300,Intermediate Statistics for Applications,STAT3621,Statistical data analysis
+ University of British Columbia,Canada,STAT305,Introduction to Statistical Inference,STAT3602,Statistical inference
+ University of British Columbia,Canada,STAT443,Time Series and Forecasting,STAT4601,Time-series analysis
+ University of Alberta,Canada,BIOL 107,Introduction to Cell Biology,BIOL1110,From molecules to cells
+ University of Alberta,Canada,BIOL 221,Mechanisms of Evolution,BIOL3501,Evolution
+ University of Alberta,Canada,BIOL 335,Principles of Systematics,BIOL3302,Systematics and phylogenetics
+ University of Alberta,Canada,CHEM 243,Advanced Inorganic Chemistry,CHEM3341,Inorganic chemistry II
+ University of Alberta,Canada,CHEM 261,Organic Chemistry I,CHEM2442,Fundamentals of organic chemistry
+ University of Alberta,Canada,EAS 100,Planet Earth,EASC1401,Blue planet
+ University of Alberta,Canada,EAS 202,Violent Weather,EASC1020,Introduction to climate science
+ University of Alberta,Canada,EAS 206,Geology of the Solar System,EASC2408,Planetary geology
+ University of Alberta,Canada,EAS 465,Sedimentology: Clastic Sedimentology,EASC3403,Sedimentary environments
+ University of Alberta,Canada,EAS 466,Petrogenesis: Petrology of Subduction Processes,EASC3409,Igneous and metamorphic petrogenesis
+ University of Alberta,Canada,IMIN 200,Infection and Immunity,BIOL3403,Immunology
+ University of Alberta,Canada,MATH 125,Linear Algebra I,MATH2101,Linear algebra I
+ University of Alberta,Canada,MICRB 265,General Microbiology,BIOL3508,Microbial physiology and biotechnology
+ University of Alberta,Canada,NU FS 311,Introduction to Food Processing,BIOL4205,Food technology
+ University of Alberta,Canada,NU FS 356,Nutrition Across the Lifespan,BIOL3204,Nutrition and the life cycle
+ University of Alberta,Canada,NU FS 377,Introduction to Population and Public Health Nutrition,BIOL4201,Public health nutrition
+ University of Alberta,Canada,NUTR 304,Fundamentals of Nutritional Biochemistry and Metabolism,BIOL3202,Nutritional biochemistry
+ University of Alberta,Canada,STAT 151,Introduction to Applied Statistics I,BIOL2102,Biostatistics
+ Simon Fraser University,Canada,ACMA 401,Long-Term Actuarial Mathematic II,STAT3909,Life contingencies II
+ Simon Fraser University,Canada,ACMA 455,Loss Models II,STAT3908,Credibility theory and loss distributions
+ Simon Fraser University,Canada,ACMA 470,Property and Casualty Insurance,STAT4903,Actuarial techniques for general insurance
+ Simon Fraser University,Canada,GEOG 311,Hydrology,EASC3410,Hydrogeology
+ Simon Fraser University,Canada,GEOG 316,Biogeochemistry and Water Cycles,EASC4403,Biogeochemical cycles
+Queen's University, Kingston,Canada,CHEM 282,General Organic Chemistry II,CHEM2442,Fundamentals of organic chemistry
+Queen's University, Kingston,Canada,ENSC 315,Global Food Security, Agriculture, & the Environment,BIOL3217,Food, environment and health"
+Queen's University, Kingston,Canada,GEOL235,Igneous and Metamorphic Petrology,EASC3409,Igneous and metamorphic petrogenesis
+Queen's University, Kingston,Canada,GEOL249,Geophysical Characterization of the Earth,EASC3408,Geophysics
+Queen's University, Kingston,Canada,HLTH 331,Advanced Human Nutrition,BIOL3204,Nutrition and the life cycle
+Queen's University, Kingston,Canada,KNPE 125,Introduction to Human Physiology,BIOL3205,Human physiology
+ McGill University,Canada,ANSC 234,Biochemistry 2,BIOL3202,Nutritional biochemistry
+ McGill University,Canada,ANSC 350,Food-Borne Pathogens,BIOL3203,Food microbiology
+ McGill University,Canada,ANSC 424,Metabolic Endocrinology,BIOL3503,Endocrinology: human physiology II
+ McGill University,Canada,ATOC 182,Introduction to Oceanic Sciences,ENVS3313,Environmental oceanography
+ McGill University,Canada,ATOC 309,Weather Radars and Satellites,EASC3405,Environmental remote sensing
+ McGill University,Canada,BIOC220,Laboratory Methods in Biochemistry and Molecular Biology,BIOC3604,Essential techniques in biochemistry and molecular biology
+ McGill University,Canada,BIOL202,Basic Genetics,BIOL3408,Genetics
+ McGill University,Canada,HGEN 677,Statistical Concepts in Genetic and Genomic Analysis,STAT3608,Statistical genetics
+ McGill University,Canada,MATH 236,Algebra 2,MATH2102,Linear algebra II
+ McGill University,Canada,MATH 315,Ordinary Differential Equations,MATH3405,Differential equations
+ McGill University,Canada,MATH 323,Probability,STAT2601,Probability and statistics I
+ McGill University,Canada,MATH 524,Nonparametric Statistics,STAT3620,Modern nonparametric statistics
+ McGill University,Canada,MATH587,Advanced Probability Theory 1,STAT7610,Advanced probability
+ McGill University,Canada,MIMM214,Introductory Immunology: Elements of Immunity,BIOL3403,Immunology
+ McGill University,Canada,NUTR 337,Nutrition Through Life,BIOL3204,Nutrition and the life cycle
+ McGill University,Canada,PHYS 331,Topics in Classical Mechanics,PHYS3350,Classical mechanics
+ McGill University,Canada,PHYS 333,Thermal and Statistical Physics,PHYS3550,Statistical mechanics & thermodynamics
+ McGill University,Canada,PHYS 342,Majors Electromagnetic Waves,PHYS3850,Physical Optics
+ McGill University,Canada,PHYS 359,Honours Laboratory in Modern Physics 1,PHYS4750,Experimental physics
+ McGill University,Canada,PHYS 457,Honours Quantum Physics 2,PHYS4351,Advanced quantum mechanics
+ University of Western Australia,Australia,PHYL2001,Physiology of Human Body Systems,BIOL3205,Human physiology
+ University of Western Australia,Australia,PUBH2204,Disease Prevention and Control,BIOL4201,Public health nutrition
+ University of Sydney,Australia,BCMB3002,Protein Function and Engineering,BIOL3404,Protein structure and function
+ University of Sydney,Australia,BIOL1006,Life and Evolution,BIOL1309,Evolutionary diversity
+ University of Sydney,Australia,BIOL1006,Life and Evolution,BIOL3506,Evolutionary biology
+ University of Sydney,Australia,BIOL2029,Cell Biology,BIOL3402,Cell biology and cell technology
+ University of Sydney,Australia,BIOL2030,Botany,BIOL3314,Plant structure and evolution
+ University of Sydney,Australia,BIOL3005,Evolutionary Biology,BIOL3506,Evolutionary biology
+ University of Sydney,Australia,BIOS1173 + EDGU1003,Disease in Ageing + Diet and Nutrition for Health and Sport,BIOL3606,Diet and disease
+ University of Sydney,Australia,CHEM2523,Chemistry of Biological Molecules,CHEM3442,Organic chemistry of biomolecules
+ University of Sydney,Australia,CHEM3110,Biomolecules: Properties and Reactions,CHEM4444,Chemical Biology
+ University of Sydney,Australia,EDGU1003,Diet and Nutrition for Health,BIOL4202,Nutrition and sports performance
+ University of Sydney,Australia,FOOD3000,Food Quality and Safety,BIOL3218,Food hygiene and quality control
+ University of Sydney,Australia,FOOD3001,Food Processing and Value Adding,BIOL4205,Food technology
+ University of Sydney,Australia,GEGE2001,Genetics and Genomics,BIOL3408,Genetics
+ University of Sydney,Australia,GEOS1001,Earth, Environment and Society,EASC1406,Introduction to the earth-life system
+ University of Sydney,Australia,IMMU2011,Immunobiology: Infectious Diseases and Immunology,BIOL3403,Immunology
+ University of Sydney,Australia,MATH3971,Convex Analysis and Optimal Control (Adv),MATH3904,Introduction to optimization
+ University of Sydney,Australia,MICR2031,Microbiology,BIOL3508,Microbial physiology and biotechnology
+ University of Sydney,Australia,MICR3021,Microbes in Health and Disease,BIOL4401,Medical microbiology and applied immunology
+ University of Sydney,Australia,PHSI2007,Key Concepts in Physiology,BIOL3205,Human physiology
+ University of Sydney,Australia,PHSI3010,Systems Physiology,BIOL3503,Endocrinology: human physiology II
+ University of Sydney,Australia,QBUS3820,Machine Learning and Data Mining in Business,STAT4904,Statistical learning for risk modelling
+ University of Queensland,Australia,BIOC3003,Human Molecular Genetics & Disease,BIOL3408,Genetics
+ University of Queensland,Australia,BIOL2006,Biostatistics,BIOL2102,Biostatistics
+ University of Queensland,Australia,BIOL3006,Molecular Cell Biology II,BIOL3402,Cell biology and cell technology
+ University of Queensland,Australia,BIOL3207,Animal Behaviour,BIOL3101,Animal behaviour
+ University of Queensland,Australia,BIOL3213,Plant Biology and Biotechnology,BIOL4411,Plant and food biotechnology
+ University of Queensland,Australia,BIOL3340,Fisheries and Aquaculture,BIOL4301,Fish and fisheries
+ University of Queensland,Australia,CHEM1200,Chemistry 2,CHEM2442,Fundamentals of organic chemistry
+ University of Queensland,Australia,CHEM2003,Food Chemistry,BIOL2101,Principles of food chemistry
+ University of Queensland,Australia,ENVM3220,Conservation Planning & Management,BIOL3303,Conservation biology
+ University of Queensland,Australia,FOOD3000,Functional Foods & Nutraceuticals,BIOL4209,Functional foods
+ University of Queensland,Australia,FOOD3007,Food Structure & Sensory Science,BIOL3209,Food and nutrient analysis
+ University of Queensland,Australia,FOOD3008,Food Processing and Engineering II,BIOL4205,Food technology
+ University of Queensland,Australia,FOOD3017,Food Policy, Safety & Quality Management,BIOL3218,Food hygiene and quality control
+ University of Queensland,Australia,NUTR3000,Nutrition & Exercise,BIOL4202,Nutrition and sports performance
+ University of New South Wales,Australia,ACTL3151,Actuarial Mathematics for Insurance and Superannuation,STAT3909,Life contingencies II
+ University of New South Wales,Australia,ACTL3191,Superannuation and Retirement Benefits,STAT3956,Life contingencies III
+ University of New South Wales,Australia,BABS3041,Immunology,BIOL3403,Immunology
+ University of New South Wales,Australia,BABS3121,Molecular Biology of Nucleic Acids,BIOL3401,Molecular biology
+ University of New South Wales,Australia,CHEM3021,Organic Chemistry: Modern Synthetic Strategies,CHEM3441,Organic chemistry II
+ University of New South Wales,Australia,ECON1203,Business and Economic Statistics,STAT1603,Introductory statistics
+ University of New South Wales,Australia,FINS3635,Options, Futures and Risk Management,STAT3910,Financial economics I
+ University of New South Wales,Australia,FOOD3220,Nutrition,BIOL3202,Nutritional biochemistry
+ University of New South Wales,Australia,PHYS1160,Introduction to Astronomy,PHYS1650,Nature of the universe
+ University of Melbourne,Australia,AGRI20026,Plant Growth Processes,ENVS3202,Plant ecophysiology and climate change
+ University of Melbourne,Australia,BCMB30003,Molecular Aspects of Cell Biology,BIOL3402,Cell biology and cell technology
+ University of Melbourne,Australia,BTCH30002,Trends & Issues in Agrifood Biotech,BIOL4411,Plant and food biotechnology
+ University of Melbourne,Australia,EVSC20006,Energy and the Environment,ENVS3010,Sustainable energy and environment
+ University of Melbourne,Australia,EVSC30003,Environmental Risk Assessment,BIOL4302,Environmental impact assessment
+ Murdoch University,Australia,MAS183.3,Statistical Data Analysis,STAT3621,Statistical data analysis
+ Murdoch University,Australia,MAS224.3,Biostatistical Methods,STAT3607,Statistics in clinical medicine and bio-medical research
+ Monash University,Australia,IMM2011,Basic Immunology: The Body's Defence System,BIOL3403,Immunology
+ Monash University,Australia,MIC2011,Introduction to Microbiology and Microbial Biotechnology,BIOL3508,Microbial physiology and biotechnology
+ Monash University,Australia,NUT2001,Health across the lifespan,BIOL3204,Nutrition and the life cycle
+ Monash University,Australia,NUT3006,Food sustainability systems,BIOL3217,Food, environment and health"
+ Monash University,Australia,NUT3008,Biochemistry, genetics and molecular nutrition,BIOL3211,Nutrigenomics
+ Monash University,Australia,PHY2011,Neuroscience of communication, sensory and control systems,BIOL3205,Human physiology
+ Griffith University,Australia,1023SCG,Chemistry I,CHEM1042,General chemistry I
+ Griffith University,Australia,1305AFE,Business Data Analysis,STAT1602,Business statistics
+ Griffith University,Australia,2303ENV,Zoology,BIOL3322,Marine invertebrate zoology
+ Griffith University,Australia,2315ENV,Urban Ecology and Biodiversity,ENVS3019,Urban Ecology
+ Griffith University,Australia,2702ENV,Botany,BIOL3314,Plant structure and evolution
+ Griffith University,Australia,2804ENV,Coastal Environments,BIOL3318,Experimental intertidal ecology
+ Griffith University,Australia,3105NSC,Advanced Organic Chemistry,CHEM4441,Advanced organic chemistry
+ Griffith University,Australia,3134MED,Nutrition Through the Lifecycle,BIOL3204,Nutrition and the life cycle
+ Griffith University,Australia,3606ENV,Conservation Biology,BIOL3303,Conservation biology
+ Flinders University,Australia,BIOL3771,DNA to Genome,BIOL3401,Molecular biology
+ Australian National University,Australia,BIOL2151,Genetics,BIOL3408,Genetics
+ Australian National University,Australia,COMP3670,Introduction to Machine Learning,STAT3612,Statistical machine learning
+ Australian National University,Australia,MATH3342,Advanced Differential Geometry,MATH4511,Introduction to differentiable manifolds
+ Australian National University,Australia,MATH3345,Advanced Algebra 2: Field extensions and Galois Theory,MATH4302,Algebra II
+ Australian National University,Australia,PHYS3101,Advanced Quantum Mechanics,PHYS4351,Advanced quantum mechanics
+ Australian National University,Australia,STAT2008,Regression Modelling,STAT3600,Linear statistical analysis
+ Australian National University,Australia,STAT3040,Statistical Learning,STAT4904,Statistical learning for risk modelling
+ Australian National University,Australia,STAT3057,Risk Modelling 1,STAT3906,Risk theory I
