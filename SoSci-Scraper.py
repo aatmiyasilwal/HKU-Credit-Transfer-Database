@@ -1,10 +1,8 @@
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
-import time
 import pandas as pd
 
-#service = Service(executable_path="chromedriver.exe")
+# service = Service(executable_path="chromedriver.exe")
 driver = webdriver.Safari()
 
 driver.get("https://www.socsc.hku.hk/sigc/credit-transfer-database/")
@@ -18,7 +16,7 @@ df = pd.DataFrame(columns=[
     'HKU-Course-Title'
 ])
 
-uni_names=driver.find_elements(By.CLASS_NAME, "modal-title")[1:]
+uni_names = driver.find_elements(By.CLASS_NAME, "modal-title")[1:]
 uni_number = 0
 
 table_elements = driver.find_elements(By.CLASS_NAME, "uni")
@@ -32,7 +30,7 @@ for table_element in table_elements:
 
     for row in rows[2:]:
         cells = row.find_elements(By.TAG_NAME, "td")
-        
+
         new_row = {
             'University': current_uni,
             'University-Country': uni_country,

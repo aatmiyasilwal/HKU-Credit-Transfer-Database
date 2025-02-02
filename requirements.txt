@@ -1,0 +1,4 @@
+selenium==4.20.0
+PyPDF2==3.0.9
+camelot-py[cv]==0.10.1
+pandas==2.0.3
