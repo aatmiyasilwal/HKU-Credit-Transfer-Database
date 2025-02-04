@@ -1,125 +1,79 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>University Data Filter</title>
-    <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <style>
-        .table-container {
-            margin-top: 20px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container mt-5">
-        <h1 class="text-center">HKU Credit Transfer Database</h1>
-        <div class="row justify-content-center">
-            <div class="col-md-6">
-                <label for="university-dropdown" class="form-label">Select University:</label>
-                <select id="university-dropdown" class="form-select">
-                    <option value="">-- Select a University --</option>
-                </select>
-            </div>
-        </div>
-        <div class="table-container">
-            <table id="data-table" class="table table-bordered table-striped">
-                <thead>
-                    <!-- Table headers will be populated dynamically -->
-                </thead>
-                <tbody>
-                    <!-- Table rows will be populated dynamically -->
-                </tbody>
-            </table>
-        </div>
-    </div>
+<!doctypehtml><html lang=en><meta charset=UTF-8><meta content="width=device-width,initial-scale=1"name=viewport><title>University Data Filter</title><link href=https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css rel=stylesheet><style>.table-container{margin-top:20px}</style><div class="container mt-5"><h1 class=text-center>HKU Credit Transfer Database</h1><div class="justify-content-center row"><div class=col-md-6><label class=form-label for=university-dropdown>Select University:</label> <select class=form-select id=university-dropdown><option value="">-- Select a University --</select></div></div><div class=table-container><table class="table table-bordered table-striped"id=data-table><thead><tbody></table></div></div><script src=https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js></script><script src=https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js></script><script>let csvData = []; // To store parsed CSV data
 
-    <!-- Bootstrap JS and dependencies -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-    <!-- PapaParse for CSV parsing -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
-    <!-- Custom Script -->
-    <script>
-        let csvData = []; // To store parsed CSV data
-
-        // Load and parse the CSV file
-        function loadCSV() {
-            Papa.parse('merged-credit_transfer_database.csv', {
-                download: true,
-                header: true,
-                dynamicTyping: true,
-                complete: function (results) {
-                    csvData = results.data; // Store parsed data
-                    populateUniversityDropdown(csvData);
-                }
-            });
-        }
-
-        // Populate the dropdown with unique universities
-        function populateUniversityDropdown(data) {
-            const universities = [...new Set(data.map(row => row.University))]; // Get unique universities
-            const dropdown = document.getElementById('university-dropdown');
-
-            universities.forEach(university => {
-                const option = document.createElement('option');
-                option.value = university;
-                option.text = university;
-                dropdown.appendChild(option);
-            });
-        }
-
-        // Display filtered data based on selected university
-        function displayFilteredData(university) {
-            const filteredData = csvData.filter(row => row.University === university);
-            const tableHead = document.querySelector('#data-table thead');
-            const tableBody = document.querySelector('#data-table tbody');
-
-            // Clear previous data
-            tableHead.innerHTML = '';
-            tableBody.innerHTML = '';
-
-            if (filteredData.length > 0) {
-                // Populate table headers
-                const headers = Object.keys(filteredData[0]);
-                const headerRow = document.createElement('tr');
-                headers.forEach(header => {
-                    const th = document.createElement('th');
-                    th.textContent = header;
-                    headerRow.appendChild(th);
-                });
-                tableHead.appendChild(headerRow);
-
-                // Populate table rows
-                filteredData.forEach(row => {
-                    const tr = document.createElement('tr');
-                    headers.forEach(header => {
-                        const td = document.createElement('td');
-                        td.textContent = row[header];
-                        tr.appendChild(td);
-                    });
-                    tableBody.appendChild(tr);
-                });
-            } else {
-                // If no data, display a message
-                tableBody.innerHTML = '<tr><td colspan="100%" class="text-center">No data found for the selected university.</td></tr>';
-            }
-        }
-
-        // Event listener for dropdown change
-        document.getElementById('university-dropdown').addEventListener('change', (event) => {
-            const selectedUniversity = event.target.value;
-            if (selectedUniversity) {
-                displayFilteredData(selectedUniversity);
-            } else {
-                // Clear the table if no university is selected
-                const tableBody = document.querySelector('#data-table tbody');
-                tableBody.innerHTML = '';
+    // Load and parse the CSV file
+    function loadCSV() {
+        Papa.parse('merged-credit_transfer_database.csv', {
+            download: true,
+            header: true,
+            dynamicTyping: true,
+            complete: function (results) {
+                csvData = results.data; // Store parsed data
+                populateUniversityDropdown(csvData);
             }
         });
+    }
 
-        // Load CSV when the page loads
-        window.onload = loadCSV;
-    </script>
-</body>
-</html>
+    // Populate the dropdown with unique universities
+    function populateUniversityDropdown(data) {
+        const universities = [...new Set(data.map(row => row.University))]; // Get unique universities
+        const dropdown = document.getElementById('university-dropdown');
+
+        universities.forEach(university => {
+            const option = document.createElement('option');
+            option.value = university;
+            option.text = university;
+            dropdown.appendChild(option);
+        });
+    }
+
+    // Display filtered data based on selected university
+    function displayFilteredData(university) {
+        const filteredData = csvData.filter(row => row.University === university);
+        const tableHead = document.querySelector('#data-table thead');
+        const tableBody = document.querySelector('#data-table tbody');
+
+        // Clear previous data
+        tableHead.innerHTML = '';
+        tableBody.innerHTML = '';
+
+        if (filteredData.length > 0) {
+            // Populate table headers
+            const headers = Object.keys(filteredData[0]);
+            const headerRow = document.createElement('tr');
+            headers.forEach(header => {
+                const th = document.createElement('th');
+                th.textContent = header;
+                headerRow.appendChild(th);
+            });
+            tableHead.appendChild(headerRow);
+
+            // Populate table rows
+            filteredData.forEach(row => {
+                const tr = document.createElement('tr');
+                headers.forEach(header => {
+                    const td = document.createElement('td');
+                    td.textContent = row[header];
+                    tr.appendChild(td);
+                });
+                tableBody.appendChild(tr);
+            });
+        } else {
+            // If no data, display a message
+            tableBody.innerHTML = '<tr><td colspan="100%" class="text-center">No data found for the selected university.</td></tr>';
+        }
+    }
+
+    // Event listener for dropdown change
+    document.getElementById('university-dropdown').addEventListener('change', (event) => {
+        const selectedUniversity = event.target.value;
+        if (selectedUniversity) {
+            displayFilteredData(selectedUniversity);
+        } else {
+            // Clear the table if no university is selected
+            const tableBody = document.querySelector('#data-table tbody');
+            tableBody.innerHTML = '';
+        }
+    });
+
+    // Load CSV when the page loads
+    window.onload = loadCSV;</script>
