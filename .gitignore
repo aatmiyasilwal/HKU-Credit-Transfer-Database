@@ -1,3 +1,4 @@
 .env
+.DS_Store
 to-dos.txt
-hkucs-scraped.txt
+backend/hkucs-scraped.txt

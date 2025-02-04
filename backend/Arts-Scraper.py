@@ -64,4 +64,4 @@ for table_element in table_elements:
 driver.quit()
 
 print(df)
-df.to_csv("arts-credit_transfer_database.csv", index=False)
+df.to_csv("backend/arts-credit_transfer_database.csv", index=False)

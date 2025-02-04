@@ -2,45 +2,49 @@
 
 ### Overview
 ---
-<p>
 This project is designed to streamline the process for outgoing exchange students from the University of Hong Kong (HKU) by providing a unified querying system for credit transfer data. Using Selenium, multiple scrapers have been developed to gather course-related information from various publicly available HKU resources. The data is then consolidated into a consistent format in CSV files, enabling students to easily access and query the information they need.
-</p>
 
+**Live Demo**: [HKU Credit Transfer Database](https://credit-transfer-database.netlify.app/)
 
 ### Getting Started
 ---
-Prerequisites
+#### Prerequisites
 To run this project, you will need:
-
-* Python 3.x (I currently use Python 3.12.8)
+* Python 3.x (currently using Python 3.12.8)
 * Selenium
 * PyPDF2
 * Camelot
 * Pandas
 * time
-* A compatible web driver (e.g., Safari, Chrome) -- (I used Safari)
+* A compatible web driver (e.g., Safari, Chrome) — (I used Safari)
 
 ### Installation
 ---
-* Clone the repository:
-`git clone https://github.com/yourusername/hku-credit-transfer-scraper.git`
-`cd hku-credit-transfer-scraper`
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/hku-credit-transfer-scraper.git
+   cd hku-credit-transfer-scraper
+   ```
 
-* Install the required dependencies:
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-`pip install -r requirements.txt`
-
-* Ensure you have the appropriate web driver installed and accessible in your system's PATH.
+3. Ensure you have the appropriate web driver installed and accessible in your system's PATH.
 
 ### Usage
 ---
 1. Run the scrapers to collect data.
-2. The scraped data will be saved in CSV format in the data/ directory.
+2. The scraped data will be saved in CSV format in the `backend/` directory, and eventually compiled in the `merged-credit_transfer_database.csv`.
+3. To launch the website locally, use:
+   ```bash
+   python -m http.server <port number>
+   ```
 
-### Future-To-Dos
+### Future Plans
 ---
-1. Develop the querying system that allows students to search through the compiled data.
-
+1. Improve the user interface, which is currently barebones.
 ### Contribution
 ---
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
@@ -53,5 +57,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ---
 For any questions or feedback, please reach out to aatmiyas@connect.hku.hk.
 
-# Disclaimer
-This project serves as a tool to assist students in their search for credit transfer information. The final decision regarding course equivalencies and credit transfers rests with the home faculty of the student. Always consult with your faculty for official guidance.
+### Disclaimer
+---
+This project is not an official HKU product, and it simply serves as a tool to assist students in their search for credit transfer information. The final decision regarding course equivalencies and credit transfers rests with the home faculty of the student. Always consult with your faculty for official guidance.
