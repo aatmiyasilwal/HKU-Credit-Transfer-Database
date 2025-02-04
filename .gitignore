@@ -1,6 +1,14 @@
 .env
 .DS_Store
+
+#Personal help
 to-dos.txt
+#hidden resources
 backend/hkucs-scraped.txt
+backend/bbms-credit-transfer-database.pdf
+backend/law-credit-transfer-database.pdf
+backend/engg-credit-transfer-database.pdf
+
+#backup
 backend/merged-credit_transfer_database.csv
 post_prod_cleanup.ipynb

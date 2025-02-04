@@ -2,7 +2,7 @@
 
 ### Overview
 ---
-This project is designed to streamline the process for outgoing exchange students from the University of Hong Kong (HKU) by providing a unified querying system for credit transfer data. Using Selenium, multiple scrapers have been developed to gather course-related information from various publicly available HKU resources. The data is then consolidated into a consistent format in CSV files, enabling students to easily access and query the information they need.
+This project is designed to streamline the process for outgoing exchange students from the University of Hong Kong (HKU) by providing a unified querying system for credit transfer data. Using Selenium, multiple scrapers have been developed to gather course-related information from various publicly available HKU resources. The data is then consolidated into a consistent format in CSV files, enabling students to easily access and query the information they need. Currently, the database contains equivalence information on 25,000+ courses from 150+ universities.
 
 **Live Demo**: [HKU Credit Transfer Database](https://credit-transfer-database.netlify.app/)
 
@@ -45,6 +45,9 @@ To run this project, you will need:
 ### Future Plans
 ---
 1. Improve the user interface, which is currently barebones.
+2. Create the HKU course equivalence dictionary to fill up the missing rows.
+3. Incorporating the Law faculty database
+
 ### Contribution
 ---
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
