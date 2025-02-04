@@ -45,8 +45,7 @@ To run this project, you will need:
 ### Future Plans
 ---
 1. Improve the user interface, which is currently barebones.
-2. Create the HKU course equivalence dictionary to fill up the missing rows.
-3. Incorporating the Law faculty database
+2. Incorporating the Law faculty database
 
 ### Contribution
 ---
