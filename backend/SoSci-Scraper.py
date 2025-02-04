@@ -48,4 +48,4 @@ for table_element in table_elements:
 print(df)
 driver.quit()
 
-df.to_csv("backend/sosci-credit_transfer_database.csv", index=False)
+df.to_csv("sosci-credit_transfer_database.csv", index=False)

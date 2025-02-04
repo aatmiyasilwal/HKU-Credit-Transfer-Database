@@ -57,4 +57,4 @@ for uni_id in range(1, 307):
 
 driver.quit()
 print(df.head())
-df.to_csv("backend/business-credit_transfer_database.csv", index=False)
+df.to_csv("business-credit_transfer_database.csv", index=False)
