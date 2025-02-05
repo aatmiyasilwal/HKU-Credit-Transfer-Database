@@ -1,4 +1,9 @@
 # HKU Credit Transfer Database
+![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+[![GitHub Issues](https://img.shields.io/github/issues/aatmiyasilwal/HKU-Credit-Transfer-Database.svg)](https://github.com/aatmiyasilwal/HKU-Credit-Transfer-Database/issues)
+![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
+![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 
 ### Overview
 ---
@@ -22,7 +27,7 @@ To run this project, you will need:
 ---
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hku-credit-transfer-scraper.git
+   git clone https://github.com/aatmiyasilwal/HKU-Credit-Transfer-Database.git
    cd hku-credit-transfer-scraper
    ```
 
