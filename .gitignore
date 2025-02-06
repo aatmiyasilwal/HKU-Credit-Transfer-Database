@@ -12,4 +12,3 @@ backend/engg-credit-transfer-database.pdf
 #backup
 backend/merged-credit_transfer_database.csv
 post_prod_cleanup.ipynb
-backend/random_test.csv
