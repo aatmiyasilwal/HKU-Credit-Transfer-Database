@@ -47,10 +47,10 @@ To run this project, you will need:
    python -m http.server <port number>
    ```
 
-### Future Plans
+### New Updates
 ---
-1. Improve the user interface, which is currently barebones.
-2. Incorporating the Law faculty database
+1. SEO implemented via submission and verification of the domain to Google Search Console.
+2. Added up to date data for all faculties.
 
 ### Contribution
 ---
